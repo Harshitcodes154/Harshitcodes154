@@ -95,13 +95,6 @@ and turning ideas into working prototypes.
 
 ---
 
-## 📊 GitHub Stats
-
-![Harshit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Harshitcodes154&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Harshitcodes154&layout=compact&theme=tokyonight&hide_border=true)
----
-
 ## 🔥 Contribution Graph
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Harshitcodes154\&theme=tokyonight\&hide_border=true)
@@ -110,9 +103,9 @@ and turning ideas into working prototypes.
 
 ## 🌐 Connect With Me
 
-💼 **https://www.linkedin.com/in/harshit-kumar-59783b311/**
-📸 **https://www.instagram.com/harshit__154?igsi=dW9mNWtjbHI4dmx1**
-🌐 ****
+💼 **LinkedIn - https://www.linkedin.com/in/harshit-kumar-59783b311/**
+📸 **Instagram - https://www.instagram.com/harshit__154?igsi=dW9mNWtjbHI4dmx1**
+🌐 **Portfolio - https://portfolioharshit154.netlify.app**
 
 ---
 
