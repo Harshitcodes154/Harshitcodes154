@@ -1,5 +1,19 @@
-# 💫 About Me:
-# 👋 Hi, I'm Harshit Kumar<br><br>### AI/ML Engineer • Software Developer • GenAI Builder<br><br>I'm a **B.Tech AI/ML student** passionate about building intelligent, scalable, and real-world software solutions.<br><br>I enjoy working at the intersection of **Artificial Intelligence, Machine Learning, Software Engineering, and Generative AI** — from developing ML systems and AI agents to building full-stack applications and deploying them to the cloud.<br><br>### 🚀 What I Do<br><br>* 🤖 Build **AI/ML & Generative AI applications**<br>* 🧠 Work with **LLMs, AI Agents, Computer Vision & Machine Learning**<br>* 💻 Develop **backend & full-stack applications**<br>* ☁️ Deploy applications using **Google Cloud & Cloud Run**<br>* 🏆 Participate in **hackathons, buildathons & CTFs**<br>* 🔍 Solve **DSA & algorithmic problems**<br>* 🛠️ Turn ideas into working, production-ready prototypes<br><br>### 🧰 Tech Stack<br><br>**Languages:**<br>`Python` `Java` `JavaScript` `SQL`<br><br>**AI / ML:**<br>`Machine Learning` `Deep Learning` `Computer Vision` `Generative AI` `LLMs`<br><br>**AI & Cloud:**<br>`Google ADK` `Gemini` `Vertex AI` `Google Cloud` `Cloud Run`<br><br>**Backend / Web:**<br>`FastAPI` `React` `Node.js` `REST APIs`<br><br>**Tools:**<br>`Git` `GitHub` `VS Code` `Docker`<br><br>### 🏗️ Featured Projects<br><br>🔹 **AI Wafer Defect Detection**<br>Computer-vision based system for detecting and analyzing wafer map defect patterns.<br><br>🔹 **Viral Assistant**<br>An AI-powered assistant that converts technical content into concise, social-media-friendly Hinglish content using Generative AI.<br><br>🔹 **Operation Sindoor**<br>A browser-based fighter jet game built using JavaScript and Cesium.<br><br>### 🏆 Hackathons & Building<br><br>I actively participate in **hackathons and developer communities**, where I enjoy taking an idea from **problem → prototype → working product**.<br><br>### 📈 Currently<br><br>* Building AI-powered applications<br>* Exploring **Agentic AI & LLM systems**<br>* Improving my **DSA & Software Engineering** skills<br>* Working on projects that solve real-world problems<br><br>### 💡 My Philosophy<br><br>> **Build. Break. Learn. Improve. Repeat.**<br><br>I'm always open to collaborating on interesting **AI, ML, GenAI and software engineering projects.**<br><br>---<br><br>### 🤝 Let's Connect<br><br>📫 Feel free to explore my repositories and connect with me if you'd like to **build something interesting together.**<br>
+👋 Hey, I'm Harshit Kumar
+AI/ML Developer • GenAI Builder • Full-Stack Developer
+
+Building ideas into intelligent products. 🚀
+
+I'm a B.Tech AIML student passionate about Artificial Intelligence, Machine Learning, Generative AI, and building real-world applications.
+
+I love turning ideas into projects, participating in hackathons, and experimenting with new technologies.
+
+⚡ About Me
+🤖 Exploring AI, ML & Generative AI
+🧠 Building AI Agents & Computer Vision systems
+☁️ Working with Google Cloud & AWS
+💻 Developing full-stack applications
+🏆 Hackathon enthusiast
+🚀 Always building something new
 
 
 ## 🌐 Socials:
