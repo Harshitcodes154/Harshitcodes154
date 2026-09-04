@@ -1,286 +1,326 @@
-# 👋 Hey, I'm Harshit Kumar
+<div align="center">
 
-### AI/ML Developer • GenAI Builder • Computer Vision • Full-Stack Developer
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=200&section=header&text=Harshit%20Kumar&fontSize=55&fontAlignY=35&animation=twinkling&fontColor=ffffff"/>
 
-I'm a **B.Tech student specializing in Artificial Intelligence & Machine Learning**, passionate about building practical AI systems and turning ideas into working products.
+### 🤖 AI/ML Developer • GenAI Builder • Full-Stack Developer
 
-My interests span **Machine Learning, Deep Learning, Computer Vision, Generative AI, AI Agents, Cloud Computing, and Full-Stack Development**.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=750&lines=Artificial+Intelligence+%26+Machine+Learning;Generative+AI+%7C+AI+Agents;Computer+Vision+%7C+Deep+Learning;Google+Cloud+%7C+Vertex+AI;Building+Real-World+AI+Applications;Hackathons+%7C+Open+Source+%7C+Innovation"/>
 
-I enjoy working on challenging problems, participating in hackathons, and building projects that combine **AI + software engineering + real-world applications**.
+<br/>
 
----
+<img src="https://komarev.com/ghpvc/?username=Harshitcodes154&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
 
-## 🚀 About Me
-
-* 🎓 B.Tech student in **Artificial Intelligence & Machine Learning**
-* 🤖 Building projects in **AI/ML, GenAI & Computer Vision**
-* 🧠 Exploring **LLMs, AI Agents and Agentic AI**
-* ☁️ Learning and building with **Google Cloud & Vertex AI**
-* ⚡ Interested in taking ML models from experimentation to usable applications
-* 💻 Strong interest in **Software Development & Full-Stack Applications**
-* 🏆 Active in **Hackathons, Buildathons & Technical Competitions**
-* 🔐 Exploring **Cybersecurity & CTFs**
-* 🎮 Interested in interactive applications and game development
-* 🌱 Currently focused on becoming a strong **AI/ML Engineer**
-
-> **I don't just want to train models — I want to build complete systems around them.**
+</div>
 
 ---
 
-# 🧠 What I Work With
+# 👨‍💻 About Me
 
-### Artificial Intelligence & Machine Learning
+```python
+class HarshitKumar:
 
-* Machine Learning
-* Deep Learning
-* Computer Vision
-* Convolutional Neural Networks
-* Explainable AI
-* Generative AI
-* Large Language Models
-* AI Agents
-* Data Analysis
+    def __init__(self):
+        self.role = "AI/ML Developer"
+        self.education = "B.Tech — Artificial Intelligence & Machine Learning"
 
-### Development
+        self.interests = [
+            "Artificial Intelligence",
+            "Machine Learning",
+            "Deep Learning",
+            "Computer Vision",
+            "Generative AI",
+            "AI Agents",
+            "Cloud Computing",
+            "Software Development"
+        ]
 
-* Python
-* Java
-* C / C++
-* JavaScript
-* TypeScript
-* React
-* FastAPI
-* REST APIs
+        self.currently_learning = [
+            "Advanced ML",
+            "GenAI",
+            "Agentic AI",
+            "Cloud AI",
+            "DSA",
+            "System Design"
+        ]
 
-### Cloud & AI Infrastructure
-
-* Google Cloud
-* Vertex AI
-* Gemini
-* Google ADK
-* Cloud Run
-* Docker
-
-### Tools & Technologies
-
-* Git
-* GitHub
-* VS Code
-* Jupyter
-* Streamlit
-* Gradio
-* CesiumJS
-* Three.js
-
----
-
-# 🔥 Featured Projects
-
-## 🌡️ ThermoWatch AI
-
-### Satellite Thermal Hotspot Detection & Industrial Fire-Risk Intelligence
-
-An AI-powered system designed for **satellite thermal hotspot detection, facility attribution and industrial fire-risk intelligence across India**.
-
-The project focuses on turning satellite and geospatial data into actionable intelligence through an AI-powered pipeline.
-
-**Tech:** `Python` `AI/ML` `Computer Vision` `Geospatial Data` `Satellite Data`
-
-🔗 **Repository:**
-https://github.com/Harshitcodes154/ThermoWatch-AI
-
----
-
-## 🧠 AI Wafer Defect Detection
-
-### Image-Based Wafer Map Pattern Intelligence
-
-A Computer Vision project focused on identifying and analyzing **semiconductor wafer defect patterns** using deep learning.
-
-The project combines:
-
-* CNN-based classification
-* Wafer map analysis
-* Pattern recognition
-* Grad-CAM explainability
-* Visual analytics
-
-**Tech:** `Python` `CNN` `Deep Learning` `Computer Vision` `Grad-CAM`
-
-🔗 **Repository:**
-https://github.com/Harshitcodes154/AI-Wafer-Defect-Detection
-
----
-
-## ❄️ Ashoka Cooling Point
-
-An engineering-focused project built around **cooling and thermal management**, exploring software-based approaches to monitoring and analyzing thermal conditions.
-
-**Tech:** `Python` `AI/ML` `Data Analysis` `Application Development`
-
-🔗 **Repository:**
-https://github.com/Harshitcodes154/Ashoka-Cooling-Point
-
----
-
-## 🛡️ Malware Detection
-
-A Machine Learning project exploring **automated malware detection and classification**.
-
-The project focuses on applying ML techniques to cybersecurity-related data and identifying potentially malicious patterns.
-
-**Tech:** `Python` `Machine Learning` `Data Analysis` `Cybersecurity`
-
-🔗 **Repository:**
-https://github.com/Harshitcodes154/Malware_detection
-
----
-
-## 📅 Smart Timetable Scheduler
-
-A software solution focused on solving the real-world problem of **classroom and timetable scheduling**.
-
-The project explores automated scheduling and application-based management for academic environments.
-
-**Tech:** `TypeScript` `JavaScript` `Web Development` `Scheduling`
-
-🔗 **Repository:**
-https://github.com/Harshitcodes154/SIH_TimeTable
-
----
-
-## ✈️ Web Flight Simulator
-
-An interactive browser-based flight simulator built using modern web technologies and 3D visualization.
-
-The project combines **CesiumJS and Three.js** to create an interactive flight experience directly in the browser.
-
-**Tech:** `JavaScript` `Three.js` `CesiumJS` `WebGL`
-
-🔗 **Repository:**
-https://github.com/Harshitcodes154/web-flight-simulator
-
----
-
-# 🏆 Hackathons & Technical Competitions
-
-I enjoy building under constraints and solving problems where the final goal is to actually **ship a working prototype**.
-
-### Experience includes
-
-* 🧠 **Google Gen AI Academy APAC 2026**
-* 💻 **SanDisk Hackathon — AI/ML Track**
-* 🎮 **PixelHack — Game Development**
-* 🔐 **Null Chapter CTF**
-* 🚀 Multiple AI/ML and software development buildathons
-
----
-
-# ☁️ AI Engineering Journey
-
-I'm particularly interested in the complete lifecycle of AI applications:
-
-```text
-Data
-  ↓
-Machine Learning
-  ↓
-Deep Learning / Computer Vision
-  ↓
-Generative AI
-  ↓
-AI Agents
-  ↓
-APIs & Backend
-  ↓
-Cloud Deployment
-  ↓
-Production AI Application
+        self.motto = "Build → Break → Learn → Improve → Ship"
 ```
 
-My current focus is on becoming comfortable with **every layer of this pipeline**.
+> 🚀 I enjoy turning ideas into working products and exploring how AI can solve real-world problems.
 
 ---
 
-# 📚 Currently Learning
+# ⚡ Tech Arsenal
 
-* 🤖 Advanced Machine Learning
-* 🧠 Deep Learning
-* 👁️ Computer Vision
-* ✨ Generative AI
-* 🧩 Agentic AI
-* ☁️ Cloud AI & Deployment
-* 🔐 Cybersecurity
-* 💻 Data Structures & Algorithms
-* 🏗️ System & Software Engineering
+<div align="center">
+
+### 💻 Languages
+
+<img src="https://skillicons.dev/icons?i=python,java,cpp,javascript,typescript,html,css&perline=7"/>
+
+### 🤖 AI / ML
+
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch&perline=5"/>
+
+<br/>
+
+<img src="https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge&logo=scikitlearn&logoColor=orange"/>
+<img src="https://img.shields.io/badge/Computer%20Vision-102230?style=for-the-badge&logo=opencv&logoColor=white"/>
+<img src="https://img.shields.io/badge/Deep%20Learning-102230?style=for-the-badge&logo=pytorch&logoColor=EE4C2C"/>
+<img src="https://img.shields.io/badge/Generative%20AI-102230?style=for-the-badge&logo=google&logoColor=white"/>
+
+### ☁️ Cloud & AI Engineering
+
+<img src="https://skillicons.dev/icons?i=gcp,docker,fastapi&perline=6"/>
+
+<br/>
+
+<img src="https://img.shields.io/badge/Google%20ADK-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=google&logoColor=white"/>
+<img src="https://img.shields.io/badge/Vertex%20AI-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
+<img src="https://img.shields.io/badge/Cloud%20Run-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
+
+### 🌐 Development
+
+<img src="https://skillicons.dev/icons?i=react,nodejs,nextjs,tailwind&perline=6"/>
+
+### 🛠️ Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,jupyter&perline=6"/>
+
+</div>
 
 ---
 
-# 📊 GitHub Stats
+# 🚀 Featured Projects
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Harshitcodes154&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harshitcodes154&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Harshitcodes154&theme=tokyonight&hide_border=true"/>
-</p>
+<a href="https://github.com/Harshitcodes154/ThermoWatch-AI">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Harshitcodes154&repo=ThermoWatch-AI&theme=tokyonight&hide_border=true"/>
+</a>
+
+<a href="https://github.com/Harshitcodes154/AI-Wafer-Defect-Detection">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Harshitcodes154&repo=AI-Wafer-Defect-Detection&theme=tokyonight&hide_border=true"/>
+</a>
+
+</div>
+
+### 🌡️ ThermoWatch AI
+
+**Satellite Thermal Hotspot Detection & Industrial Fire-Risk Intelligence**
+
+An AI-powered system designed around satellite thermal hotspot detection, facility attribution and industrial fire-risk intelligence.
+
+`AI/ML` `Computer Vision` `Satellite Data` `Geospatial Intelligence`
+
+🔗 [Explore Repository](https://github.com/Harshitcodes154/ThermoWatch-AI)
 
 ---
 
-# 💡 My Development Philosophy
+### 🧠 AI Wafer Defect Detection
+
+**Image-Based Wafer Map Pattern Intelligence**
+
+A Computer Vision system for identifying wafer defect patterns using deep learning with explainability and visual analytics.
+
+`CNN` `Deep Learning` `Computer Vision` `Grad-CAM`
+
+🔗 [Explore Repository](https://github.com/Harshitcodes154/AI-Wafer-Defect-Detection)
+
+---
+
+<div align="center">
+
+<a href="https://github.com/Harshitcodes154/Ashoka-Cooling-Point">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Harshitcodes154&repo=Ashoka-Cooling-Point&theme=tokyonight&hide_border=true"/>
+</a>
+
+<a href="https://github.com/Harshitcodes154/Malware_detection">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Harshitcodes154&repo=Malware_detection&theme=tokyonight&hide_border=true"/>
+</a>
+
+<a href="https://github.com/Harshitcodes154/SIH_TimeTable">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Harshitcodes154&repo=SIH_TimeTable&theme=tokyonight&hide_border=true"/>
+</a>
+
+<a href="https://github.com/Harshitcodes154/web-flight-simulator">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Harshitcodes154&repo=web-flight-simulator&theme=tokyonight&hide_border=true"/>
+</a>
+
+</div>
+
+---
+
+# 🏆 Hackathons & Competitions
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Google%20Gen%20AI%20Academy-2026-4285F4?style=for-the-badge&logo=google"/>
+<img src="https://img.shields.io/badge/SanDisk%20Hackathon-AI%2FML-red?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/PixelHack-Game%20Development-purple?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Null%20Chapter-CTF-black?style=for-the-badge"/>
+
+</div>
 
 ```text
-Learn → Build → Test → Break → Debug → Improve → Ship
+                ┌──────────────────────┐
+                │       IDEA 💡        │
+                └──────────┬───────────┘
+                           ↓
+                ┌──────────────────────┐
+                │      BUILD 🛠️        │
+                └──────────┬───────────┘
+                           ↓
+                ┌──────────────────────┐
+                │     DEBUG 🐛         │
+                └──────────┬───────────┘
+                           ↓
+                ┌──────────────────────┐
+                │      SHIP 🚀         │
+                └──────────────────────┘
 ```
 
-I believe the fastest way to understand technology is to **build with it**.
+---
 
-Instead of only following tutorials, I try to convert what I learn into projects, experiments and working applications.
+# 🧩 AI Engineering Journey
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=70&text=AI%20%E2%86%92%20ML%20%E2%86%92%20DL%20%E2%86%92%20GenAI%20%E2%86%92%20Agents%20%E2%86%92%20Cloud&fontSize=22&fontColor=ffffff&animation=fadeIn"/>
+
+</div>
+
+```text
+                    DATA
+                     │
+                     ▼
+              MACHINE LEARNING
+                     │
+                     ▼
+              DEEP LEARNING
+                     │
+                     ▼
+             COMPUTER VISION
+                     │
+                     ▼
+              GENERATIVE AI
+                     │
+                     ▼
+                AI AGENTS
+                     │
+                     ▼
+               APIs / BACKEND
+                     │
+                     ▼
+              CLOUD DEPLOYMENT
+                     │
+                     ▼
+              🚀 AI PRODUCT
+```
 
 ---
 
-# 🎯 2026 Goals
+# 📊 GitHub Analytics
 
-* 🚀 Build production-ready AI applications
-* 🤖 Go deeper into Generative AI & Agentic AI
-* 🧠 Strengthen ML & Deep Learning fundamentals
-* ☁️ Deploy more AI systems on the cloud
-* 🏆 Participate in more hackathons
-* 🔓 Contribute to Open Source
-* 💻 Improve DSA & software engineering skills
-* 🔬 Explore AI research and experimentation
+<div align="center">
 
----
+<img src="https://github-readme-stats.vercel.app/api?username=Harshitcodes154&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="180"/>
 
-# 🤝 Let's Connect
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harshitcodes154&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
 
-I'm open to collaborating on:
-
-* 🤖 AI/ML projects
-* 🧠 Generative AI
-* 🧩 AI Agents
-* 👁️ Computer Vision
-* ☁️ Cloud & AI Engineering
-* 🔐 Cybersecurity
-* 💻 Open Source
-* 🚀 Hackathons & innovative projects
-
-### 📫 Find me
-
-<p align="left">
-  <a href="https://github.com/Harshitcodes154">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>
+</div>
 
 ---
 
-<p align="center">
+# 🔥 Contribution Streak
 
-### ⚡ Build. Learn. Ship. Repeat.
+<div align="center">
 
-**Thanks for visiting my profile! 🚀**
+<img src="https://streak-stats.demolab.com?user=Harshitcodes154&theme=tokyonight&hide_border=true&border_radius=10"/>
 
-</p>
+</div>
+
+---
+
+# 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Harshitcodes154&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1"/>
+
+</div>
+
+---
+
+# 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Harshitcodes154/Harshitcodes154/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
+
+</div>
+
+---
+
+# 🎯 2026 Roadmap
+
+```text
+┌─────────────────────────────────────────────────────┐
+│                                                     │
+│   🧠 MASTER ML / DL                                 │
+│              ↓                                      │
+│   🤖 GO DEEPER INTO GENAI                           │
+│              ↓                                      │
+│   🧩 BUILD AGENTIC AI SYSTEMS                       │
+│              ↓                                      │
+│   ☁️ DEPLOY AI ON CLOUD                             │
+│              ↓                                      │
+│   🔓 CONTRIBUTE TO OPEN SOURCE                      │
+│              ↓                                      │
+│   🏆 BUILD & WIN MORE HACKATHONS                    │
+│              ↓                                      │
+│   🚀 BECOME A STRONG AI/ML ENGINEER                │
+│                                                     │
+└─────────────────────────────────────────────────────┘
+```
+
+---
+
+# 💭 Philosophy
+
+<div align="center">
+
+### *"The best way to learn technology is to build with it."*
+
+<br/>
+
+**Learn → Build → Break → Debug → Improve → Ship**
+
+</div>
+
+---
+
+# 🤝 Let's Build Something
+
+I'm interested in collaborating on:
+
+`AI/ML` • `Generative AI` • `AI Agents` • `Computer Vision` • `Cloud` • `Open Source` • `Cybersecurity` • `Hackathons`
+
+<div align="center">
+
+<a href="https://github.com/Harshitcodes154">
+<img src="https://img.shields.io/badge/GitHub-Harshitcodes154-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=120&section=footer&animation=twinkling"/>
+
+### ⚡ BUILD • LEARN • SHIP • REPEAT
+
+</div>
