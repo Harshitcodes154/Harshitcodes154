@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 240">
+<defs><linearGradient id="line"><stop stop-color="#00e5ff"/><stop offset="1" stop-color="#8b5cf6"/></linearGradient></defs>
+<rect width="1200" height="240" rx="24" fill="#080d1f" stroke="#1e315b"/>
+<g font-family="Inter,Segoe UI,Arial" text-anchor="middle">
+  <g fill="#dbe7ff" font-size="15" font-weight="700">
+    <text x="100" y="75">DATA</text><text x="300" y="75">ML / DL</text><text x="500" y="75">COMPUTER</text><text x="700" y="75">GENAI</text><text x="900" y="75">AGENTS</text><text x="1100" y="75">CLOUD</text>
+  </g>
+  <g fill="#7f94b8" font-size="12">
+    <text x="100" y="105">Signals</text><text x="300" y="105">Models</text><text x="500" y="105">Vision</text><text x="700" y="105">LLMs</text><text x="900" y="105">ADK</text><text x="1100" y="105">Deploy</text>
+  </g>
+</g>
+<path d="M100 150 H1100" stroke="#20365f" stroke-width="4"/>
+<g fill="#6cf5ff">
+  <circle cx="100" cy="150" r="9"/><circle cx="300" cy="150" r="9"/><circle cx="500" cy="150" r="9"/><circle cx="700" cy="150" r="9"/><circle cx="900" cy="150" r="9"/><circle cx="1100" cy="150" r="9"/>
+</g>
+<circle r="12" fill="#fff">
+  <animate attributeName="cx" values="100;300;500;700;900;1100;100" dur="5s" repeatCount="indefinite"/>
+  <animate attributeName="cy" values="150;150;150;150;150;150;150" dur="5s" repeatCount="indefinite"/>
+</circle>
+<text x="600" y="205" text-anchor="middle" fill="#9eefff" font-family="monospace" font-size="14">FROM RAW DATA TO DEPLOYED INTELLIGENCE</text>
+</svg>

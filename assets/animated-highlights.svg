@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1100 180">
+<defs><linearGradient id="g"><stop stop-color="#00e5ff"/><stop offset="1" stop-color="#8b5cf6"/></linearGradient></defs>
+<rect width="1100" height="180" rx="24" fill="#080d1f" stroke="#1e315b"/>
+<g font-family="Inter,Segoe UI,Arial" text-anchor="middle">
+  <text x="180" y="55" fill="#6cf5ff" font-size="17" font-weight="700">AI / ML</text>
+  <text x="180" y="88" fill="#dbe7ff" font-size="14">Models • Data • Intelligence</text>
+  <text x="550" y="55" fill="#a78bfa" font-size="17" font-weight="700">GENAI / AGENTS</text>
+  <text x="550" y="88" fill="#dbe7ff" font-size="14">LLMs • Gemini • ADK</text>
+  <text x="920" y="55" fill="#6cf5ff" font-size="17" font-weight="700">CLOUD</text>
+  <text x="920" y="88" fill="#dbe7ff" font-size="14">Vertex AI • Cloud Run</text>
+</g>
+<g stroke="url(#g)" stroke-width="3">
+  <line x1="310" y1="72" x2="420" y2="72"><animate attributeName="stroke-dasharray" values="0,110;110,0" dur="1.5s" repeatCount="indefinite"/></line>
+  <line x1="680" y1="72" x2="790" y2="72"><animate attributeName="stroke-dasharray" values="0,110;110,0" dur="1.5s" repeatCount="indefinite"/></line>
+</g>
+<circle cx="365" cy="72" r="5" fill="#fff"><animate attributeName="cx" values="310;420;310" dur="2s" repeatCount="indefinite"/></circle>
+<circle cx="735" cy="72" r="5" fill="#fff"><animate attributeName="cx" values="680;790;680" dur="2s" repeatCount="indefinite"/></circle>
+<text x="550" y="140" text-anchor="middle" fill="#8da1c7" font-family="monospace" font-size="13">PROBLEM → MODEL → APPLICATION → DEPLOYMENT</text>
+</svg>

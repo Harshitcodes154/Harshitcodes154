@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 210">
+<rect width="1200" height="210" rx="24" fill="#080d1f" stroke="#1e315b"/>
+<g font-family="Inter,Segoe UI,Arial" text-anchor="middle">
+<g fill="#6cf5ff" font-size="15" font-weight="800">
+<text x="150" y="55">THERMOWATCH</text><text x="380" y="55">WAFER AI</text><text x="610" y="55">MALWARE</text><text x="840" y="55">TIMETABLE</text><text x="1060" y="55">FLIGHT SIM</text>
+</g>
+<g fill="#9aaaca" font-size="12">
+<text x="150" y="82">Satellite Intelligence</text><text x="380" y="82">Computer Vision</text><text x="610" y="82">Cybersecurity</text><text x="840" y="82">Scheduling</text><text x="1060" y="82">3D Web</text>
+</g>
+</g>
+<g stroke="#35547d" stroke-width="2">
+<line x1="80" y1="125" x2="1120" y2="125"/>
+</g>
+<g fill="#8b5cf6">
+<circle cx="150" cy="125" r="10"><animate attributeName="cy" values="125;112;125" dur="1.8s" repeatCount="indefinite"/></circle>
+<circle cx="380" cy="125" r="10"><animate attributeName="cy" values="125;108;125" dur="2.2s" repeatCount="indefinite"/></circle>
+<circle cx="610" cy="125" r="10"><animate attributeName="cy" values="125;115;125" dur="2s" repeatCount="indefinite"/></circle>
+<circle cx="840" cy="125" r="10"><animate attributeName="cy" values="125;110;125" dur="2.5s" repeatCount="indefinite"/></circle>
+<circle cx="1060" cy="125" r="10"><animate attributeName="cy" values="125;114;125" dur="2.1s" repeatCount="indefinite"/></circle>
+</g>
+<text x="600" y="175" text-anchor="middle" fill="#dbe7ff" font-family="monospace" font-size="13">BUILDING PRACTICAL SYSTEMS ACROSS AI • SOFTWARE • CLOUD</text>
+</svg>

@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1100 190">
+<rect width="1100" height="190" rx="24" fill="#080d1f" stroke="#1e315b"/>
+<g font-family="Inter,Segoe UI,Arial" text-anchor="middle">
+<text x="550" y="35" fill="#8da1c7" font-family="monospace" font-size="12">CURRENTLY EXPLORING</text>
+<g font-size="14" font-weight="700">
+<text x="130" y="85" fill="#6cf5ff">MACHINE LEARNING</text>
+<text x="330" y="85" fill="#a78bfa">COMPUTER VISION</text>
+<text x="530" y="85" fill="#6cf5ff">GENERATIVE AI</text>
+<text x="730" y="85" fill="#a78bfa">AI AGENTS</text>
+<text x="930" y="85" fill="#6cf5ff">CLOUD AI</text>
+</g>
+<g fill="#415a82">
+<rect x="70" y="112" width="120" height="4" rx="2"/><rect x="270" y="112" width="120" height="4" rx="2"/><rect x="470" y="112" width="120" height="4" rx="2"/><rect x="670" y="112" width="120" height="4" rx="2"/><rect x="870" y="112" width="120" height="4" rx="2"/>
+</g>
+<g fill="#fff">
+<circle cy="114" r="6">
+<animate attributeName="cx" values="70;190;70" dur="2s" repeatCount="indefinite"/>
+</circle>
+<circle cy="114" r="6">
+<animate attributeName="cx" values="270;390;270" dur="2.4s" repeatCount="indefinite"/>
+</circle>
+<circle cy="114" r="6">
+<animate attributeName="cx" values="470;590;470" dur="2.1s" repeatCount="indefinite"/>
+</circle>
+<circle cy="114" r="6">
+<animate attributeName="cx" values="670;790;670" dur="2.7s" repeatCount="indefinite"/>
+</circle>
+<circle cy="114" r="6">
+<animate attributeName="cx" values="870;990;870" dur="2.3s" repeatCount="indefinite"/>
+</circle>
+</g>
+</g>
+</svg>
