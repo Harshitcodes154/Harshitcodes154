@@ -1,38 +1,286 @@
-👋 Hey, I'm Harshit Kumar
-AI/ML Developer • GenAI Builder • Full-Stack Developer
+# 👋 Hey, I'm Harshit Kumar
 
-Building ideas into intelligent products. 🚀
+### AI/ML Developer • GenAI Builder • Computer Vision • Full-Stack Developer
 
-I'm a B.Tech AIML student passionate about Artificial Intelligence, Machine Learning, Generative AI, and building real-world applications.
+I'm a **B.Tech student specializing in Artificial Intelligence & Machine Learning**, passionate about building practical AI systems and turning ideas into working products.
 
-I love turning ideas into projects, participating in hackathons, and experimenting with new technologies.
+My interests span **Machine Learning, Deep Learning, Computer Vision, Generative AI, AI Agents, Cloud Computing, and Full-Stack Development**.
 
-⚡ About Me
-🤖 Exploring AI, ML & Generative AI
-🧠 Building AI Agents & Computer Vision systems
-☁️ Working with Google Cloud & AWS
-💻 Developing full-stack applications
-🏆 Hackathon enthusiast
-🚀 Always building something new
-
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/harshit__154) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/harshit-kumar-59783b311) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:harshitkumar7212@gmail.com) 
-
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Radix UI](https://img.shields.io/badge/radix%20ui-161618.svg?style=for-the-badge&logo=radix-ui&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Three js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Adobe Acrobat Reader](https://img.shields.io/badge/Adobe%20Acrobat%20Reader-EC1C24.svg?style=for-the-badge&logo=Adobe%20Acrobat%20Reader&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) ![Godot Engine](https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Harshitcodes154&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=Harshitcodes154&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Harshitcodes154&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Harshitcodes154&theme=gruvbox_light&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+I enjoy working on challenging problems, participating in hackathons, and building projects that combine **AI + software engineering + real-world applications**.
 
 ---
-[![](https://komarev.com/ghpvc/?username=Harshitcodes154&icon=3&color=6)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🚀 About Me
+
+* 🎓 B.Tech student in **Artificial Intelligence & Machine Learning**
+* 🤖 Building projects in **AI/ML, GenAI & Computer Vision**
+* 🧠 Exploring **LLMs, AI Agents and Agentic AI**
+* ☁️ Learning and building with **Google Cloud & Vertex AI**
+* ⚡ Interested in taking ML models from experimentation to usable applications
+* 💻 Strong interest in **Software Development & Full-Stack Applications**
+* 🏆 Active in **Hackathons, Buildathons & Technical Competitions**
+* 🔐 Exploring **Cybersecurity & CTFs**
+* 🎮 Interested in interactive applications and game development
+* 🌱 Currently focused on becoming a strong **AI/ML Engineer**
+
+> **I don't just want to train models — I want to build complete systems around them.**
+
+---
+
+# 🧠 What I Work With
+
+### Artificial Intelligence & Machine Learning
+
+* Machine Learning
+* Deep Learning
+* Computer Vision
+* Convolutional Neural Networks
+* Explainable AI
+* Generative AI
+* Large Language Models
+* AI Agents
+* Data Analysis
+
+### Development
+
+* Python
+* Java
+* C / C++
+* JavaScript
+* TypeScript
+* React
+* FastAPI
+* REST APIs
+
+### Cloud & AI Infrastructure
+
+* Google Cloud
+* Vertex AI
+* Gemini
+* Google ADK
+* Cloud Run
+* Docker
+
+### Tools & Technologies
+
+* Git
+* GitHub
+* VS Code
+* Jupyter
+* Streamlit
+* Gradio
+* CesiumJS
+* Three.js
+
+---
+
+# 🔥 Featured Projects
+
+## 🌡️ ThermoWatch AI
+
+### Satellite Thermal Hotspot Detection & Industrial Fire-Risk Intelligence
+
+An AI-powered system designed for **satellite thermal hotspot detection, facility attribution and industrial fire-risk intelligence across India**.
+
+The project focuses on turning satellite and geospatial data into actionable intelligence through an AI-powered pipeline.
+
+**Tech:** `Python` `AI/ML` `Computer Vision` `Geospatial Data` `Satellite Data`
+
+🔗 **Repository:**
+https://github.com/Harshitcodes154/ThermoWatch-AI
+
+---
+
+## 🧠 AI Wafer Defect Detection
+
+### Image-Based Wafer Map Pattern Intelligence
+
+A Computer Vision project focused on identifying and analyzing **semiconductor wafer defect patterns** using deep learning.
+
+The project combines:
+
+* CNN-based classification
+* Wafer map analysis
+* Pattern recognition
+* Grad-CAM explainability
+* Visual analytics
+
+**Tech:** `Python` `CNN` `Deep Learning` `Computer Vision` `Grad-CAM`
+
+🔗 **Repository:**
+https://github.com/Harshitcodes154/AI-Wafer-Defect-Detection
+
+---
+
+## ❄️ Ashoka Cooling Point
+
+An engineering-focused project built around **cooling and thermal management**, exploring software-based approaches to monitoring and analyzing thermal conditions.
+
+**Tech:** `Python` `AI/ML` `Data Analysis` `Application Development`
+
+🔗 **Repository:**
+https://github.com/Harshitcodes154/Ashoka-Cooling-Point
+
+---
+
+## 🛡️ Malware Detection
+
+A Machine Learning project exploring **automated malware detection and classification**.
+
+The project focuses on applying ML techniques to cybersecurity-related data and identifying potentially malicious patterns.
+
+**Tech:** `Python` `Machine Learning` `Data Analysis` `Cybersecurity`
+
+🔗 **Repository:**
+https://github.com/Harshitcodes154/Malware_detection
+
+---
+
+## 📅 Smart Timetable Scheduler
+
+A software solution focused on solving the real-world problem of **classroom and timetable scheduling**.
+
+The project explores automated scheduling and application-based management for academic environments.
+
+**Tech:** `TypeScript` `JavaScript` `Web Development` `Scheduling`
+
+🔗 **Repository:**
+https://github.com/Harshitcodes154/SIH_TimeTable
+
+---
+
+## ✈️ Web Flight Simulator
+
+An interactive browser-based flight simulator built using modern web technologies and 3D visualization.
+
+The project combines **CesiumJS and Three.js** to create an interactive flight experience directly in the browser.
+
+**Tech:** `JavaScript` `Three.js` `CesiumJS` `WebGL`
+
+🔗 **Repository:**
+https://github.com/Harshitcodes154/web-flight-simulator
+
+---
+
+# 🏆 Hackathons & Technical Competitions
+
+I enjoy building under constraints and solving problems where the final goal is to actually **ship a working prototype**.
+
+### Experience includes
+
+* 🧠 **Google Gen AI Academy APAC 2026**
+* 💻 **SanDisk Hackathon — AI/ML Track**
+* 🎮 **PixelHack — Game Development**
+* 🔐 **Null Chapter CTF**
+* 🚀 Multiple AI/ML and software development buildathons
+
+---
+
+# ☁️ AI Engineering Journey
+
+I'm particularly interested in the complete lifecycle of AI applications:
+
+```text
+Data
+  ↓
+Machine Learning
+  ↓
+Deep Learning / Computer Vision
+  ↓
+Generative AI
+  ↓
+AI Agents
+  ↓
+APIs & Backend
+  ↓
+Cloud Deployment
+  ↓
+Production AI Application
+```
+
+My current focus is on becoming comfortable with **every layer of this pipeline**.
+
+---
+
+# 📚 Currently Learning
+
+* 🤖 Advanced Machine Learning
+* 🧠 Deep Learning
+* 👁️ Computer Vision
+* ✨ Generative AI
+* 🧩 Agentic AI
+* ☁️ Cloud AI & Deployment
+* 🔐 Cybersecurity
+* 💻 Data Structures & Algorithms
+* 🏗️ System & Software Engineering
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Harshitcodes154&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harshitcodes154&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Harshitcodes154&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+# 💡 My Development Philosophy
+
+```text
+Learn → Build → Test → Break → Debug → Improve → Ship
+```
+
+I believe the fastest way to understand technology is to **build with it**.
+
+Instead of only following tutorials, I try to convert what I learn into projects, experiments and working applications.
+
+---
+
+# 🎯 2026 Goals
+
+* 🚀 Build production-ready AI applications
+* 🤖 Go deeper into Generative AI & Agentic AI
+* 🧠 Strengthen ML & Deep Learning fundamentals
+* ☁️ Deploy more AI systems on the cloud
+* 🏆 Participate in more hackathons
+* 🔓 Contribute to Open Source
+* 💻 Improve DSA & software engineering skills
+* 🔬 Explore AI research and experimentation
+
+---
+
+# 🤝 Let's Connect
+
+I'm open to collaborating on:
+
+* 🤖 AI/ML projects
+* 🧠 Generative AI
+* 🧩 AI Agents
+* 👁️ Computer Vision
+* ☁️ Cloud & AI Engineering
+* 🔐 Cybersecurity
+* 💻 Open Source
+* 🚀 Hackathons & innovative projects
+
+### 📫 Find me
+
+<p align="left">
+  <a href="https://github.com/Harshitcodes154">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+
+### ⚡ Build. Learn. Ship. Repeat.
+
+**Thanks for visiting my profile! 🚀**
+
+</p>
