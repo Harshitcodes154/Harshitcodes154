@@ -1,19 +1,50 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1100 180">
-<defs><linearGradient id="g"><stop stop-color="#00e5ff"/><stop offset="1" stop-color="#8b5cf6"/></linearGradient></defs>
-<rect width="1100" height="180" rx="24" fill="#080d1f" stroke="#1e315b"/>
-<g font-family="Inter,Segoe UI,Arial" text-anchor="middle">
-  <text x="180" y="55" fill="#6cf5ff" font-size="17" font-weight="700">AI / ML</text>
-  <text x="180" y="88" fill="#dbe7ff" font-size="14">Models • Data • Intelligence</text>
-  <text x="550" y="55" fill="#a78bfa" font-size="17" font-weight="700">GENAI / AGENTS</text>
-  <text x="550" y="88" fill="#dbe7ff" font-size="14">LLMs • Gemini • ADK</text>
-  <text x="920" y="55" fill="#6cf5ff" font-size="17" font-weight="700">CLOUD</text>
-  <text x="920" y="88" fill="#dbe7ff" font-size="14">Vertex AI • Cloud Run</text>
-</g>
-<g stroke="url(#g)" stroke-width="3">
-  <line x1="310" y1="72" x2="420" y2="72"><animate attributeName="stroke-dasharray" values="0,110;110,0" dur="1.5s" repeatCount="indefinite"/></line>
-  <line x1="680" y1="72" x2="790" y2="72"><animate attributeName="stroke-dasharray" values="0,110;110,0" dur="1.5s" repeatCount="indefinite"/></line>
-</g>
-<circle cx="365" cy="72" r="5" fill="#fff"><animate attributeName="cx" values="310;420;310" dur="2s" repeatCount="indefinite"/></circle>
-<circle cx="735" cy="72" r="5" fill="#fff"><animate attributeName="cx" values="680;790;680" dur="2s" repeatCount="indefinite"/></circle>
-<text x="550" y="140" text-anchor="middle" fill="#8da1c7" font-family="monospace" font-size="13">PROBLEM → MODEL → APPLICATION → DEPLOYMENT</text>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="160" viewBox="0 0 1200 160" role="img" aria-labelledby="title desc">
+  <title id="title">Three areas of focus: AI and ML, generative AI and agents, and cloud engineering</title>
+  <desc id="desc">Three dark cards with original line icons and gently moving signal lines.</desc>
+  <style>
+    .flow { stroke-dasharray: 8 14; animation: flow 9s linear infinite; }
+    .signal { animation: signal 5s ease-in-out infinite; }
+    .second { animation-delay: -1.6s; }
+    .third { animation-delay: -3.2s; }
+    @keyframes flow { to { stroke-dashoffset: -132; } }
+    @keyframes signal { 0%, 100% { stroke-width: 2; } 50% { stroke-width: 4; } }
+    @media (prefers-reduced-motion: reduce) { * { animation: none !important; } }
+  </style>
+  <g fill="#0d1826" stroke="#223247">
+    <rect x="1" y="1" width="382" height="158" rx="20"/>
+    <rect x="409" y="1" width="382" height="158" rx="20"/>
+    <rect x="817" y="1" width="382" height="158" rx="20"/>
+  </g>
+  <g fill="none" stroke-linecap="round" stroke-linejoin="round" stroke-width="2">
+    <g stroke="#a7f3d0">
+      <path d="M38 46 53 36 68 46 53 62Z M38 46V62L53 72 68 62V46 M53 62V72"/>
+      <circle class="signal" cx="53" cy="36" r="3" fill="#0d1826"/>
+    </g>
+    <g stroke="#67e8f9">
+      <path d="M461 34V42 M461 66V74 M441 54H449 M473 54H481 M447 40 453 46 M469 62 475 68 M447 68 453 62 M469 46 475 40"/>
+      <rect class="signal second" x="452" y="45" width="18" height="18" rx="5"/>
+    </g>
+    <g stroke="#b8a4ff">
+      <path d="M854 63H883A9 9 0 0 0 884 45 15 15 0 0 0 856 47 8 8 0 0 0 854 63Z M860 72H879"/>
+      <circle class="signal third" cx="870" cy="63" r="3" fill="#0d1826"/>
+    </g>
+  </g>
+  <g font-family="Segoe UI, Arial, sans-serif">
+    <g fill="#eef4fb" font-size="26" font-weight="600">
+      <text x="89" y="61">AI / ML</text>
+      <text x="497" y="61">GenAI &amp; Agents</text>
+      <text x="905" y="61" font-size="25">Cloud Engineering</text>
+    </g>
+    <g fill="#91a4b7" font-size="20">
+      <text x="33" y="105">Models, data &amp; intelligence</text>
+      <text x="441" y="105">LLMs, tools &amp; orchestration</text>
+      <text x="849" y="105">Vertex AI &amp; Cloud Run</text>
+    </g>
+  </g>
+  <g fill="none" stroke-width="2" stroke-linecap="round">
+    <path d="M33 133H350 M441 133H758 M849 133H1166" stroke="#223247"/>
+    <path class="flow" d="M33 133H350" stroke="#a7f3d0"/>
+    <path class="flow second" d="M441 133H758" stroke="#67e8f9"/>
+    <path class="flow third" d="M849 133H1166" stroke="#b8a4ff"/>
+  </g>
 </svg>

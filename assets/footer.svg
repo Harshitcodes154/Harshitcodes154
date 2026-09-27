@@ -1,13 +1,32 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 150">
-<defs><linearGradient id="g"><stop stop-color="#00e5ff"/><stop offset="1" stop-color="#8b5cf6"/></linearGradient></defs>
-<rect width="1200" height="150" rx="28" fill="#080d1f" stroke="#1e315b"/>
-<g stroke="url(#g)" stroke-width="2" opacity=".55">
-<path d="M40 120 L180 45 L330 100 L500 35 L680 105 L850 50 L1030 100 L1160 35"/>
-</g>
-<g fill="#6cf5ff">
-<circle cx="180" cy="45" r="4"><animate attributeName="r" values="3;8;3" dur="2s" repeatCount="indefinite"/></circle>
-<circle cx="500" cy="35" r="4"><animate attributeName="r" values="4;9;4" dur="2.5s" repeatCount="indefinite"/></circle>
-<circle cx="850" cy="50" r="4"><animate attributeName="r" values="3;8;3" dur="1.8s" repeatCount="indefinite"/></circle>
-</g>
-<text x="600" y="90" text-anchor="middle" fill="#ffffff" font-family="Inter,Segoe UI,Arial" font-size="30" font-weight="800">BUILD • LEARN • SHIP • REPEAT</text>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="180" viewBox="0 0 1200 180" role="img" aria-labelledby="title desc">
+  <title id="title">Always learning. Always building.</title>
+  <desc id="desc">A closing message beside a gently flowing learn, build, and ship loop.</desc>
+  <style>
+    .flow { stroke-dasharray: 5 11; animation: flow 18s linear infinite; }
+    .signal { animation: signal 6s ease-in-out infinite; }
+    .second { animation-delay: -2s; } .third { animation-delay: -4s; }
+    @keyframes flow { to { stroke-dashoffset: -256; } }
+    @keyframes signal { 0%, 100% { stroke-width: 2; } 50% { stroke-width: 5; } }
+    @media (prefers-reduced-motion: reduce) { * { animation: none !important; } }
+  </style>
+  <rect x="1" y="1" width="1198" height="178" rx="22" fill="#09111b" stroke="#223247"/>
+  <path d="M40 38V142" stroke="#a7f3d0" stroke-width="3" stroke-linecap="round"/>
+  <g font-family="Segoe UI, Arial, sans-serif">
+    <text x="69" y="78" fill="#eef4fb" font-size="38" font-weight="700">Always learning.</text>
+    <text x="69" y="128" fill="#a7f3d0" font-size="38" font-weight="700">Always building.</text>
+  </g>
+  <g fill="none" stroke-width="2">
+    <path d="M759 61H1035Q1086 61 1086 104T1035 147H759Q708 147 708 104T759 61Z" stroke="#223247"/>
+    <path class="flow" d="M759 61H1035Q1086 61 1086 104T1035 147H759Q708 147 708 104T759 61Z" stroke="#67e8f9" opacity=".7"/>
+  </g>
+  <g fill="#09111b" stroke-width="2">
+    <circle class="signal" cx="759" cy="61" r="5" stroke="#a7f3d0"/>
+    <circle class="signal second" cx="897" cy="61" r="5" stroke="#67e8f9"/>
+    <circle class="signal third" cx="1035" cy="61" r="5" stroke="#b8a4ff"/>
+  </g>
+  <g font-family="Segoe UI, Arial, sans-serif" text-anchor="middle" font-size="22" font-weight="600">
+    <text x="759" y="113" fill="#a7f3d0">LEARN</text>
+    <text x="897" y="113" fill="#67e8f9">BUILD</text>
+    <text x="1035" y="113" fill="#b8a4ff">SHIP</text>
+  </g>
 </svg>

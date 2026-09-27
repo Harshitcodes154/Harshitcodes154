@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="560" height="200" viewBox="0 0 560 200" role="img" aria-labelledby="title desc">
+  <title id="title">Web Flight Sim</title>
+  <desc id="desc">An aircraft flies above a gently moving perspective grid inside a flight instrument display.</desc>
+  <defs><clipPath id="flight-clip"><rect x="336" y="29" width="193" height="142" rx="12"/></clipPath><linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#67e8f9" stop-opacity=".04"/><stop offset="1" stop-color="#67e8f9" stop-opacity=".12"/></linearGradient></defs>
+  <style>
+    text{font-family:Arial,Helvetica,sans-serif}.terrain{animation:fly 7s linear infinite}.plane{transform-origin:433px 102px;animation:bank 10s ease-in-out infinite}
+    @keyframes fly{from{transform:translateY(-12px)}to{transform:translateY(12px)}}@keyframes bank{0%,100%{transform:rotate(-3deg)}50%{transform:rotate(3deg)}}
+    @media(prefers-reduced-motion:reduce){*{animation:none!important}}
+  </style>
+  <rect x=".5" y=".5" width="559" height="199" rx="18" fill="#09111b" stroke="#223247"/>
+  <path d="M30 36h23" stroke="#67e8f9" stroke-width="3" stroke-linecap="round"/>
+  <text x="30" y="62" font-size="10" font-weight="700" letter-spacing="2" fill="#91a4b7">INTERACTIVE FLIGHT</text>
+  <text x="28" y="108" font-size="29" font-weight="700" letter-spacing="-.8" fill="#eef4fb">Web Flight Sim</text>
+  <path d="M30 145h219" stroke="#223247"/>
+  <circle cx="32" cy="166" r="2" fill="#67e8f9"/><path d="M41 166h44m7 0h20" stroke="#223247" stroke-linecap="round"/>
+  <rect x="336" y="29" width="193" height="142" rx="12" fill="#0d1826" stroke="#223247"/>
+  <g clip-path="url(#flight-clip)">
+    <path d="M337 30h191v72H337Z" fill="url(#sky)"/>
+    <path d="M336 102h193" stroke="#67e8f9" stroke-opacity=".35"/>
+    <path d="m433 102-144 93m144-93-70 93m70-93v93m0-93 70 93m-70-93 144 93" fill="none" stroke="#223247"/>
+    <g class="terrain" stroke="#67e8f9" stroke-opacity=".1"><path d="M336 126h193m-193 24h193m-193 24h193m-193 24h193"/></g>
+    <path d="M413 59h39m-32 12h25m-18 12h11" stroke="#91a4b7" stroke-opacity=".5"/>
+    <path d="M413 145h39m-32-12h25" stroke="#91a4b7" stroke-opacity=".35"/>
+    <path d="M351 68v64m-5-54h5m-5 16h5m-5 16h5m-5 16h5m163-58v64m0-54h5m-5 16h5m-5 16h5m-5 16h5" stroke="#91a4b7" stroke-opacity=".45"/>
+  </g>
+  <g class="plane"><path d="m433 83 5 17 36 13v5l-36-7-1 14 9 5v4l-13-3-13 3v-4l9-5-1-14-36 7v-5l36-13Z" fill="#09111b" stroke="#a7f3d0" stroke-width="1.5" stroke-linejoin="round"/><path d="M433 93v25" stroke="#a7f3d0" stroke-opacity=".6"/></g>
+  <path d="m416 41 17-5 17 5" fill="none" stroke="#b8a4ff" stroke-opacity=".7"/>
+  <circle cx="433" cy="158" r="2" fill="#a7f3d0"/>
+</svg>

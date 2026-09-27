@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="560" height="200" viewBox="0 0 560 200" role="img" aria-labelledby="title desc">
+  <title id="title">Ashoka Cooling</title>
+  <desc id="desc">A cooling unit sends a slow stream of cool air across a delicate snowflake.</desc>
+  <style>
+    text{font-family:Arial,Helvetica,sans-serif}.air{stroke-dasharray:18 13;animation:flow 8s linear infinite}.breeze{animation:breath 7s ease-in-out infinite}
+    @keyframes flow{to{stroke-dashoffset:-93}}@keyframes breath{0%,100%{opacity:.55}50%{opacity:1}}
+    @media(prefers-reduced-motion:reduce){*{animation:none!important}}
+  </style>
+  <rect x=".5" y=".5" width="559" height="199" rx="18" fill="#09111b" stroke="#223247"/>
+  <path d="M30 36h23" stroke="#67e8f9" stroke-width="3" stroke-linecap="round"/>
+  <text x="30" y="62" font-size="10" font-weight="700" letter-spacing="2" fill="#91a4b7">CLIMATE &amp; COMFORT</text>
+  <text x="28" y="108" font-size="29" font-weight="700" letter-spacing="-.8" fill="#eef4fb">Ashoka Cooling</text>
+  <path d="M30 145h219" stroke="#223247"/>
+  <circle cx="32" cy="166" r="2" fill="#67e8f9"/><path d="M41 166h44m7 0h20" stroke="#223247" stroke-linecap="round"/>
+  <rect x="343" y="40" width="180" height="57" rx="12" fill="#0d1826" stroke="#91a4b7" stroke-opacity=".45"/>
+  <path d="M343 72h180" stroke="#223247"/><path d="M358 81h149m-143 6h138" stroke="#91a4b7" stroke-opacity=".4" stroke-linecap="round"/>
+  <path d="M359 56h33" stroke="#223247" stroke-width="2" stroke-linecap="round"/>
+  <circle cx="508" cy="55" r="2" fill="#a7f3d0"/>
+  <path d="M481 53h10m-10 5h10" stroke="#a7f3d0" stroke-opacity=".6" stroke-linecap="round"/>
+  <g fill="none" stroke="#67e8f9" stroke-linecap="round">
+    <g opacity=".1"><path d="M365 108c0 27-20 19-20 43 0 10 8 14 17 14M394 108c0 31-19 27-19 52M471 108c0 31 19 27 19 52M500 108c0 27 20 19 20 43 0 10-8 14-17 14"/></g>
+    <g class="air" opacity=".6"><path d="M365 108c0 27-20 19-20 43 0 10 8 14 17 14M394 108c0 31-19 27-19 52M471 108c0 31 19 27 19 52M500 108c0 27 20 19 20 43 0 10-8 14-17 14"/></g>
+  </g>
+  <g class="breeze" transform="translate(433 139)" fill="none" stroke="#a7f3d0" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.4">
+    <circle r="28" stroke="#223247" stroke-dasharray="2 6"/>
+    <path d="M0-20v40m-17.3-30 34.6 20m-34.6 0 34.6-20M-5-15l5 5 5-5m-10 30 5-5 5 5M-15.5-3l6.8-1.9-1.8-6.8m26 14-6.8 1.9 1.8 6.8M-15.5 3l6.8 1.9-1.8 6.8m26-14-6.8-1.9 1.8-6.8"/>
+  </g>
+</svg>
