@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="230" viewBox="0 0 1200 230" role="img" aria-labelledby="title desc">
+  <title id="title">The AI engineering loop</title>
+  <desc id="desc">Data: curate signals. Model: train and evaluate. Application: build with AI. Deploy: serve reliably. Iterate: learn and improve. A flowing line connects the five stages and returns to data.</desc>
+  <style>
+    .flow { stroke-dasharray: 5 8; animation: flow 5s linear infinite; }
+    .return { stroke-dasharray: 5 11; animation: return 18s linear infinite; }
+    .node { animation: node 6s ease-in-out infinite; }
+    .n2 { animation-delay: -4.8s; } .n3 { animation-delay: -3.6s; }
+    .n4 { animation-delay: -2.4s; } .n5 { animation-delay: -1.2s; }
+    @keyframes flow { to { stroke-dashoffset: -65; } }
+    @keyframes return { to { stroke-dashoffset: -256; } }
+    @keyframes node { 0%, 100% { stroke-width: 2; } 50% { stroke-width: 5; } }
+    @media (prefers-reduced-motion: reduce) { * { animation: none !important; } }
+  </style>
+  <rect x="1" y="1" width="1198" height="228" rx="22" fill="#09111b" stroke="#223247"/>
+  <text x="32" y="37" fill="#91a4b7" font-family="Segoe UI, Arial, sans-serif" font-size="16" font-weight="600" letter-spacing="2">FROM IDEAS TO WORKING SYSTEMS</text>
+  <g fill="none" stroke="#223247" stroke-width="2">
+    <path d="M130 119H1070"/>
+    <path d="M1070 172V193Q1070 201 1062 201H138Q130 201 130 193V172"/>
+  </g>
+  <path class="flow" d="M130 119H1070" fill="none" stroke="#a7f3d0" stroke-width="2"/>
+  <path class="return" d="M1070 172V193Q1070 201 1062 201H138Q130 201 130 193V172" fill="none" stroke="#67e8f9" stroke-width="1.5" opacity=".65"/>
+  <g fill="#0d1826" stroke="#223247">
+    <rect x="32" y="62" width="196" height="110" rx="14"/>
+    <rect x="267" y="62" width="196" height="110" rx="14"/>
+    <rect x="502" y="62" width="196" height="110" rx="14"/>
+    <rect x="737" y="62" width="196" height="110" rx="14"/>
+    <rect x="972" y="62" width="196" height="110" rx="14"/>
+  </g>
+  <g fill="#0d1826" stroke="#a7f3d0" stroke-width="2">
+    <circle class="node" cx="130" cy="62" r="4"/>
+    <circle class="node n2" cx="365" cy="62" r="4"/>
+    <circle class="node n3" cx="600" cy="62" r="4"/>
+    <circle class="node n4" cx="835" cy="62" r="4"/>
+    <circle class="node n5" cx="1070" cy="62" r="4"/>
+  </g>
+  <g fill="none" stroke="#a7f3d0" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round">
+    <path d="m246 115 4 4-4 4 M481 115l4 4-4 4 M716 115l4 4-4 4 M951 115l4 4-4 4"/>
+  </g>
+  <g font-family="Segoe UI, Arial, sans-serif" text-anchor="middle">
+    <g fill="#eef4fb" font-size="23" font-weight="600">
+      <text x="130" y="108">DATA</text>
+      <text x="365" y="108">MODEL</text>
+      <text x="600" y="108">APPLICATION</text>
+      <text x="835" y="108">DEPLOY</text>
+      <text x="1070" y="108">ITERATE</text>
+    </g>
+    <g fill="#91a4b7" font-size="20">
+      <text x="130" y="143">Curate signals</text>
+      <text x="365" y="143">Train &amp; evaluate</text>
+      <text x="600" y="143">Build with AI</text>
+      <text x="835" y="143">Serve reliably</text>
+      <text x="1070" y="143">Learn &amp; improve</text>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="560" height="200" viewBox="0 0 560 200" role="img" aria-labelledby="title desc">
+  <title id="title">Wafer Defect AI</title>
+  <desc id="desc">A semiconductor wafer with a slowly moving inspection beam and a highlighted defective chip.</desc>
+  <defs><clipPath id="wafer-clip"><circle cx="438" cy="100" r="65"/></clipPath><linearGradient id="scan-light" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#67e8f9" stop-opacity="0"/><stop offset="1" stop-color="#67e8f9" stop-opacity=".2"/></linearGradient></defs>
+  <style>
+    text{font-family:Arial,Helvetica,sans-serif}.scan{animation:inspect 9s ease-in-out infinite}.defect{animation:focus 5s ease-in-out infinite}
+    @keyframes inspect{0%,100%{transform:translateX(-34px)}50%{transform:translateX(50px)}}@keyframes focus{0%,100%{opacity:.55}50%{opacity:1}}
+    @media(prefers-reduced-motion:reduce){*{animation:none!important}}
+  </style>
+  <rect x=".5" y=".5" width="559" height="199" rx="18" fill="#09111b" stroke="#223247"/>
+  <path d="M30 36h23" stroke="#67e8f9" stroke-width="3" stroke-linecap="round"/>
+  <text x="30" y="62" font-size="10" font-weight="700" letter-spacing="2" fill="#91a4b7">SEMICONDUCTOR VISION</text>
+  <text x="28" y="108" font-size="29" font-weight="700" letter-spacing="-.8" fill="#eef4fb">Wafer Defect AI</text>
+  <path d="M30 145h219" stroke="#223247"/>
+  <circle cx="32" cy="166" r="2" fill="#67e8f9"/><path d="M41 166h44m7 0h20" stroke="#223247" stroke-linecap="round"/>
+  <circle cx="438" cy="100" r="76" fill="none" stroke="#223247" stroke-dasharray="2 7"/>
+  <circle cx="438" cy="100" r="66" fill="#0d1826" stroke="#91a4b7" stroke-opacity=".5"/>
+  <g clip-path="url(#wafer-clip)">
+    <g fill="#67e8f9" fill-opacity=".035" stroke="#67e8f9" stroke-opacity=".23" stroke-width=".8">
+      <path d="M380 39h16v16h-16Zm21 0h16v16h-16Zm21 0h16v16h-16Zm21 0h16v16h-16Zm21 0h16v16h-16Zm21 0h16v16h-16Z"/>
+      <path d="M380 60h16v16h-16Zm21 0h16v16h-16Zm21 0h16v16h-16Zm21 0h16v16h-16Zm21 0h16v16h-16Zm21 0h16v16h-16Z"/>
+      <path d="M380 81h16v16h-16Zm21 0h16v16h-16Zm21 0h16v16h-16Zm21 0h16v16h-16Zm21 0h16v16h-16Zm21 0h16v16h-16Z"/>
+      <path d="M380 102h16v16h-16Zm21 0h16v16h-16Zm21 0h16v16h-16Zm21 0h16v16h-16Zm21 0h16v16h-16Zm21 0h16v16h-16Z"/>
+      <path d="M380 123h16v16h-16Zm21 0h16v16h-16Zm21 0h16v16h-16Zm21 0h16v16h-16Zm21 0h16v16h-16Zm21 0h16v16h-16Z"/>
+      <path d="M380 144h16v16h-16Zm21 0h16v16h-16Zm21 0h16v16h-16Zm21 0h16v16h-16Zm21 0h16v16h-16Zm21 0h16v16h-16Z"/>
+    </g>
+    <g class="scan"><rect x="403" y="33" width="27" height="134" fill="url(#scan-light)"/><path d="M430 33v134" stroke="#67e8f9" stroke-opacity=".8"/></g>
+    <g class="defect"><rect x="442" y="80" width="18" height="18" rx="2" fill="#b8a4ff" fill-opacity=".2" stroke="#b8a4ff"/><path d="m447 85 8 8m0-8-8 8" stroke="#b8a4ff"/></g>
+  </g>
+  <path d="m432 165 6-6 6 6" fill="#09111b" stroke="#91a4b7" stroke-opacity=".5"/>
+  <path d="M349 60V44h16m146 96v16h-16" stroke="#67e8f9" fill="none" opacity=".5"/>
+  <path d="M462 82l39-35h20" fill="none" stroke="#b8a4ff" stroke-opacity=".5"/><circle cx="521" cy="47" r="2" fill="#b8a4ff"/>
+</svg>

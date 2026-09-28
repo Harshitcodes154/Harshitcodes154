@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="460" viewBox="0 0 600 460" role="img" aria-labelledby="title desc">
+  <title id="title">Harshit Kumar — AI / ML Developer</title>
+  <desc id="desc">Building intelligence, one idea at a time. A compact profile header with a gently orbiting AI core and the words learn, build, ship.</desc>
+  <defs>
+    <radialGradient id="halo"><stop stop-color="#16403e" stop-opacity=".7"/><stop offset="1" stop-color="#09111b" stop-opacity="0"/></radialGradient>
+    <linearGradient id="accent"><stop stop-color="#a7f3d0"/><stop offset="1" stop-color="#67e8f9"/></linearGradient>
+    <pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse"><path d="M36 0H0V36" fill="none" stroke="#91a4b7" stroke-opacity=".06"/></pattern>
+    <clipPath id="frame"><rect width="600" height="460" rx="24"/></clipPath>
+  </defs>
+  <style>
+    text { font-family: 'Segoe UI', Arial, sans-serif; }
+    .mono { font-family: Consolas, 'Liberation Mono', monospace; }
+    .orbit { transform-origin: 465px 352px; animation: orbit 24s linear infinite; }
+    .reverse { animation-direction: reverse; animation-duration: 34s; }
+    .flow { stroke-dasharray: 5 11; animation: flow 12s linear infinite; }
+    .signal { animation: signal 6s ease-in-out infinite; }
+    @keyframes orbit { to { transform: rotate(360deg); } }
+    @keyframes flow { to { stroke-dashoffset: -128; } }
+    @keyframes signal { 0%, 100% { stroke-width: 2; } 50% { stroke-width: 5; } }
+    @media (prefers-reduced-motion: reduce) { * { animation: none !important; } }
+  </style>
+  <g clip-path="url(#frame)">
+    <rect width="600" height="460" fill="#09111b"/>
+    <rect width="600" height="460" fill="url(#grid)"/>
+    <circle cx="465" cy="352" r="190" fill="url(#halo)"/>
+    <path d="M38 1H562" stroke="url(#accent)" stroke-opacity=".7"/>
+    <circle class="signal" cx="44" cy="50" r="5" fill="#09111b" stroke="#a7f3d0" stroke-width="2"/>
+    <text class="mono" x="63" y="58" fill="#a7f3d0" font-size="22" letter-spacing="1.5">HARSHITCODES154</text>
+    <text x="38" y="140" fill="#eef4fb" font-size="64" font-weight="750" letter-spacing="-2.8">Harshit Kumar<tspan fill="#a7f3d0">.</tspan></text>
+    <text x="40" y="185" fill="#a7f3d0" font-size="28" font-weight="600">AI / ML Developer</text>
+    <g fill="#c4d1de" font-size="26">
+      <text x="40" y="230">Building intelligence,</text>
+      <text x="40" y="262">one idea at a time.</text>
+    </g>
+    <path d="M40 304H337" stroke="#223247"/>
+    <path class="flow" d="M40 304H337" stroke="#67e8f9" stroke-opacity=".55"/>
+    <text class="mono" x="38" y="358" fill="#a7f3d0" font-size="24" font-weight="600">LEARN. BUILD. SHIP.</text>
+    <g fill="none" stroke="#26434b">
+      <circle cx="465" cy="352" r="65" stroke-dasharray="2 8"/>
+      <circle cx="465" cy="352" r="47"/>
+      <path d="M465 278V287M465 417V426M391 352H400M530 352H539"/>
+    </g>
+    <g class="orbit" fill="none" stroke="#67e8f9" stroke-width="2">
+      <path d="M465 287A65 65 0 0 1 530 352"/>
+      <circle cx="530" cy="352" r="4" fill="#67e8f9" stroke="#09111b"/>
+    </g>
+    <g class="orbit reverse" fill="none" stroke="#a7f3d0" stroke-width="2">
+      <path d="M418 352A47 47 0 0 1 465 305"/>
+      <circle cx="465" cy="305" r="4" fill="#a7f3d0" stroke="#09111b"/>
+    </g>
+    <rect x="438" y="325" width="54" height="54" rx="15" fill="#112e36" stroke="#416c6c"/>
+    <text x="465" y="362" text-anchor="middle" fill="#d4ffeb" font-size="29" font-weight="650">AI</text>
+  </g>
+  <rect x=".5" y=".5" width="599" height="459" rx="24" fill="none" stroke="#223247"/>
+</svg>

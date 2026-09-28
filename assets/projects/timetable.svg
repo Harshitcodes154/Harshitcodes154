@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="560" height="200" viewBox="0 0 560 200" role="img" aria-labelledby="title desc">
+  <title id="title">SIH TimeTable</title>
+  <desc id="desc">An organized timetable with softly animated calendar highlights moving between time slots.</desc>
+  <style>
+    text{font-family:Arial,Helvetica,sans-serif}.slot{animation:schedule 12s ease-in-out infinite}.slot-second{animation:balance 12s ease-in-out infinite}
+    @keyframes schedule{0%,15%,100%{transform:translate(0,0)}35%,55%{transform:translate(40px,27px)}75%,85%{transform:translate(80px,0)}}@keyframes balance{0%,15%,100%{transform:translate(0,0)}35%,55%{transform:translate(-40px,54px)}75%,85%{transform:translate(-80px,0)}}
+    @media(prefers-reduced-motion:reduce){*{animation:none!important}}
+  </style>
+  <rect x=".5" y=".5" width="559" height="199" rx="18" fill="#09111b" stroke="#223247"/>
+  <path d="M30 36h23" stroke="#a7f3d0" stroke-width="3" stroke-linecap="round"/>
+  <text x="30" y="62" font-size="10" font-weight="700" letter-spacing="2" fill="#91a4b7">SMART SCHEDULING</text>
+  <text x="28" y="108" font-size="29" font-weight="700" letter-spacing="-.8" fill="#eef4fb">SIH TimeTable</text>
+  <path d="M30 145h219" stroke="#223247"/>
+  <circle cx="32" cy="166" r="2" fill="#a7f3d0"/><path d="M41 166h44m7 0h20" stroke="#223247" stroke-linecap="round"/>
+  <rect x="340" y="34" width="185" height="133" rx="12" fill="#0d1826" stroke="#223247"/>
+  <path d="M340 66h185" stroke="#223247"/>
+  <path d="M369 28v13m128-13v13" stroke="#91a4b7" stroke-width="3" stroke-linecap="round"/>
+  <path d="M356 51h30m7 0h10" stroke="#91a4b7" stroke-opacity=".6" stroke-width="2" stroke-linecap="round"/>
+  <circle cx="507" cy="51" r="3" fill="#a7f3d0"/>
+  <g fill="none" stroke="#223247"><path d="M358 77h149m-149 27h149m-149 27h149m-149 27h149M374 77v81m40-81v81m40-81v81m40-81v81"/></g>
+  <g stroke="#91a4b7" stroke-opacity=".35" stroke-linecap="round"><path d="M357 90h6m-6 27h6m-6 27h6"/></g>
+  <rect x="380" y="110" width="27" height="14" rx="4" fill="#b8a4ff" fill-opacity=".16" stroke="#b8a4ff" stroke-opacity=".4"/>
+  <rect x="460" y="137" width="27" height="14" rx="4" fill="#67e8f9" fill-opacity=".13" stroke="#67e8f9" stroke-opacity=".4"/>
+  <g class="slot"><rect x="380" y="83" width="27" height="14" rx="4" fill="#a7f3d0" fill-opacity=".23" stroke="#a7f3d0" stroke-opacity=".7"/><path d="M386 90h15" stroke="#a7f3d0" stroke-width="1.5" stroke-linecap="round"/></g>
+  <g class="slot-second"><rect x="460" y="83" width="27" height="14" rx="4" fill="#67e8f9" fill-opacity=".13" stroke="#67e8f9" stroke-opacity=".5"/><path d="M466 90h15" stroke="#67e8f9" stroke-width="1.5" stroke-linecap="round"/></g>
+  <circle cx="337" cy="161" r="13" fill="#09111b" stroke="#223247"/><path d="m331 161 4 4 8-9" fill="none" stroke="#a7f3d0" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

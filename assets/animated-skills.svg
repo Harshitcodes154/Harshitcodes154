@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="240" viewBox="0 0 1200 240" role="img" aria-labelledby="title desc">
+  <title id="title">A learning roadmap: machine learning and deep learning, vision and generative AI, agents and cloud</title>
+  <desc id="desc">Three learning areas illustrated by a neural network, a flowing wave, and an orbiting system. These are areas of exploration, with no proficiency scores.</desc>
+  <style>
+    .flow { stroke-dasharray: 6 12; animation: flow 9s linear infinite; }
+    .wave { stroke-dasharray: 120 22; animation: wave 12s linear infinite; }
+    .orbit { transform-origin: 1005px 118px; animation: orbit 26s linear infinite; }
+    .node { animation: node 6s ease-in-out infinite; }
+    .later { animation-delay: -2s; } .latest { animation-delay: -4s; }
+    @keyframes flow { to { stroke-dashoffset: -144; } }
+    @keyframes wave { to { stroke-dashoffset: -284; } }
+    @keyframes orbit { to { transform: rotate(360deg); } }
+    @keyframes node { 0%, 100% { stroke-width: 2; } 50% { stroke-width: 5; } }
+    @media (prefers-reduced-motion: reduce) { * { animation: none !important; } }
+  </style>
+  <rect x="1" y="1" width="1198" height="238" rx="22" fill="#09111b" stroke="#223247"/>
+  <text x="32" y="37" fill="#91a4b7" font-family="Segoe UI, Arial, sans-serif" font-size="16" font-weight="600" letter-spacing="2">MY LEARNING ROADMAP</text>
+  <path d="M400 61V209 M800 61V209" stroke="#223247"/>
+  <g fill="none" stroke="#223247" stroke-width="1.5">
+    <path d="m138 89 62-13 62 42-62 41-62-13 62-70v83m-62-70 124 29-124 28 62-70m0 83 62-41"/>
+    <path d="M460 118H740"/>
+    <ellipse cx="1005" cy="118" rx="86" ry="36" transform="rotate(-18 1005 118)"/>
+    <circle cx="1005" cy="118" r="45"/>
+  </g>
+  <path class="flow" d="m138 89 62-13 62 42-62 41-62-13 62-70v83" fill="none" stroke="#a7f3d0" stroke-width="1.5"/>
+  <g stroke="#a7f3d0" stroke-width="2" fill="#0d1826">
+    <circle class="node" cx="138" cy="89" r="6"/>
+    <circle class="node later" cx="200" cy="76" r="6"/>
+    <circle class="node latest" cx="262" cy="118" r="6"/>
+    <circle class="node later" cx="200" cy="159" r="6"/>
+    <circle class="node" cx="138" cy="146" r="6"/>
+  </g>
+  <g fill="none" stroke-linecap="round" stroke-width="2">
+    <path d="M465 118C490 118 490 80 515 80S540 156 565 156 590 80 615 80 640 156 665 156 690 118 735 118" stroke="#223247"/>
+    <path class="wave" d="M465 118C490 118 490 80 515 80S540 156 565 156 590 80 615 80 640 156 665 156 690 118 735 118" stroke="#67e8f9"/>
+    <path class="wave later" d="M465 118C500 118 500 140 530 140S560 96 590 96 620 140 650 140 680 118 735 118" stroke="#a7f3d0" opacity=".45"/>
+  </g>
+  <g class="orbit">
+    <circle cx="1005" cy="73" r="5" fill="#b8a4ff"/>
+    <circle cx="1005" cy="163" r="4" fill="#67e8f9"/>
+  </g>
+  <g fill="#0d1826" stroke="#b8a4ff" stroke-width="2">
+    <rect x="989" y="102" width="32" height="32" rx="9"/>
+    <circle class="node latest" cx="928" cy="143" r="5"/>
+    <circle class="node later" cx="1082" cy="93" r="5"/>
+  </g>
+  <path d="m998 118 5 5 9-10" fill="none" stroke="#b8a4ff" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+  <g font-family="Segoe UI, Arial, sans-serif" text-anchor="middle" fill="#eef4fb" font-size="25" font-weight="600">
+    <text x="200" y="208">ML &amp; Deep Learning</text>
+    <text x="600" y="208">Vision &amp; GenAI</text>
+    <text x="1000" y="208">Agents &amp; Cloud</text>
+  </g>
+</svg>
