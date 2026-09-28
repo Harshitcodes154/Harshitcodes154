@@ -1,0 +1,172 @@
+<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Harshit Kumar — Profile Preview</title><style>*{box-sizing:border-box}html{color-scheme:dark light}body{margin:0;background:#0d1117;color:#e6edf3;font:16px/1.6 -apple-system,BlinkMacSystemFont,"Segoe UI",Arial,sans-serif}main{max-width:1012px;margin:24px auto;padding:32px;border:1px solid #30363d;border-radius:7px}h2{margin:36px 0 18px;padding-bottom:8px;border-bottom:1px solid #30363d;font-size:24px}h3{font-size:20px;margin:28px 0 14px}p{margin:16px 0}a{color:#58a6ff;text-decoration:none}a:hover{text-decoration:underline}img{max-width:100%;vertical-align:middle}picture>img{height:auto}p>img{height:auto}code{font:85% Consolas,monospace;background:#6e768166;padding:.2em .4em;border-radius:6px;overflow-wrap:anywhere}h2 code{font-size:90%;background:none}pre{padding:16px;overflow:auto;background:#161b22;border-radius:6px;font:14px/1.45 Consolas,monospace}pre code{background:none;padding:0;overflow-wrap:normal}table{display:block;width:max-content;max-width:100%;overflow:auto;border-collapse:collapse;margin:16px 0}th,td{border:1px solid #30363d;padding:8px 13px;text-align:left}tr:nth-child(2n){background:#161b22}details{margin:18px 0}summary{cursor:pointer;color:#91a7b9}footer{font-size:12px;color:#91a7b9;padding:20px;text-align:center}@media(max-width:650px){main{margin:0;border:0;padding:16px}body{font-size:15px}h2{font-size:20px}p[align=center] img{margin:4px 0}table{width:100%;font-size:14px}}@media(prefers-color-scheme:light){body{background:#fff;color:#1f2328}main,h2,th,td{border-color:#d0d7de}a{color:#0969da}pre,tr:nth-child(2n){background:#f6f8fa}code{background:#afb8c133}}</style></head><body><main><!-- HARSHIT KUMAR / AI ENGINEERING COMMAND CENTER -->
+<picture>
+  <source media="(max-width: 600px)" srcset="assets/hero-mobile.png">
+  <img src="assets/hero.png" width="100%" alt="HARSHIT KUMAR — AI Engineering Command Center. AI/ML engineer, GenAI builder, computer vision and systems explorer.">
+</picture>
+
+<p align="center">
+  <a href="assets/resume/Harshit-Kumar-Resume.pdf"><img src="assets/ui/resume.svg" height="38" alt="Download resume"></a>
+  <a href="https://www.linkedin.com/in/harshit-kumar-59783b311/"><img src="assets/ui/linkedin.svg" height="38" alt="Connect on LinkedIn"></a>
+  <a href="mailto:harshitkumar7212@gmail.com"><img src="assets/ui/mail.svg" height="38" alt="Send email"></a>
+</p>
+
+<p><img src="assets/ui/boot.gif" alt="Profile boot sequence: neural modules, computer vision, generative AI, agents, cloud and Linux loaded. System online."></p>
+<h2><code>$ whoami</code></h2>
+<p>I&#39;m <strong>Harshit Kumar</strong>, a <strong>pre-final-year B.Tech student in Computer Science and Engineering, specializing in Artificial Intelligence &amp; Machine Learning at VIT-AP University</strong>.</p>
+<p>I build around the full AI application loop: understanding data, training models, inspecting predictions, exposing APIs, and creating interfaces people can use. My projects span <strong>computer vision, generative AI, software engineering, and cloud-backed applications</strong>. Linux, agentic systems, game development, hackathons, and experimental engineering keep me exploring beyond a single stack.</p>
+<p><strong>From wafer maps to satellite hotspots — turning signals into useful software.</strong></p>
+<h2><code>$ cat /etc/harshit/current_focus</code></h2>
+<p><img src="assets/ui/current-focus.svg" alt="Current focus: AI systems, computer vision, generative AI, agentic systems, Linux, cloud, game development and system design."></p>
+<p><strong>Building:</strong> AI systems · Computer vision · Generative AI · Software engineering<br><strong>Exploring:</strong> Agentic systems · Linux · Cloud · Game development · System design</p>
+<h2><code>$ ls -la ~/projects/</code></h2>
+<h3>01 / WAFER-GPT</h3>
+<p><img src="assets/projects/wafer-gpt.svg" alt="WAFER-GPT — AI-powered wafer defect intelligence. CNN classification, Grad-CAM and Gemini."></p>
+<p><strong>Wafer-map classification with an explanation layer.</strong> A TensorFlow/Keras CNN classifies nine wafer-pattern categories; Grad-CAM highlights model attention, while Gemini adds contextual interpretation and follow-up chat. A FastAPI backend connects the model to a browser interface.</p>
+<p><code>Wafer image → grayscale quantization → 224×224 RGB → CNN → class + Grad-CAM → FastAPI → browser result</code></p>
+<p><code>Prediction context → Gemini → interpretation / chat</code></p>
+<p><strong>Stack:</strong> Python · TensorFlow/Keras · OpenCV · FastAPI · Gemini · HTML/CSS/JavaScript · Docker<br><strong>Deployment configuration:</strong> Vercel frontend · Railway API<br><strong>Achievement:</strong> Hackathon winner — WAFER-GPT, Android Club, VIT-AP.</p>
+<p><a href="https://github.com/Harshitcodes154/WAFER-GPT"><img src="assets/ui/source.svg" alt="View WAFER-GPT source"></a>
+<a href="https://wafer-gpt.vercel.app/"><img src="assets/ui/interface.svg" alt="Open WAFER-GPT interface"></a></p>
+<details>
+<summary>Implementation notes</summary>
+
+<p>The preprocessing pipeline maps wafer pixels to three grayscale levels, resizes with nearest-neighbor interpolation, converts to RGB, and normalizes model input. Classification and Grad-CAM are separate from the language-model interpretation. The interface URL is reachable; the configured backend health endpoint returned 404 during inspection. No accuracy or service-uptime claim is implied.</p>
+</details>
+
+<h3>02 / ThermoWatch-AI</h3>
+<p><img src="assets/projects/thermowatch-ai.svg" alt="ThermoWatch-AI — satellite thermal and industrial risk. NASA FIRMS, geospatial ML and Streamlit."></p>
+<p><strong>Satellite hotspots with facility context.</strong> A geospatial pipeline clusters NASA FIRMS detections, associates nearby OpenStreetMap facilities, classifies likely source types, and prioritizes results using a heuristic risk score. The Streamlit dashboard provides Folium maps and CSV/PDF exports, with Open-Meteo weather context.</p>
+<p><code>VIIRS detections → DBSCAN clusters → OSM facility attribution → source classifier → risk score → map / report</code></p>
+<p><strong>Stack:</strong> Python · pandas · NumPy · scikit-learn · Streamlit · Folium · OpenStreetMap · Open-Meteo<br><strong>Architecture:</strong> Data ingestion → spatial attribution with BallTree → classification → dashboard. Risk prioritization is displayed in the application; external emergency-alert delivery is not claimed.</p>
+<p><a href="https://github.com/Harshitcodes154/ThermoWatch-AI"><img src="assets/ui/source.svg" alt="View ThermoWatch-AI source"></a>
+<a href="https://thermowatch-aigit-sih.streamlit.app/"><img src="assets/ui/demo.svg" alt="Open ThermoWatch-AI app"></a></p>
+<h3>03 / Operation Sindoor</h3>
+<p><img src="assets/projects/operation-sindoor.svg" alt="Operation Sindoor — fictional aerial combat and game development. Radar, target locking, missions and HUD."></p>
+<p><strong>A fictional air-defense / aerial-combat game concept.</strong> Fighter aircraft, radar sweeps, enemy threats, missile warnings, target locking, missions, weather, and a cinematic HUD shape the intended experience.</p>
+<p><code>Mission → radar awareness → threat / lock feedback → aerial encounter → mission outcome</code></p>
+<p><strong>Design focus:</strong> Flight, radar, mission feedback, and atmosphere. This is the gameplay concept; implementation architecture and engine are not asserted here.</p>
+<p><a href="https://github.com/Harshitcodes154/OperationSindoor"><img src="assets/ui/source.svg" alt="View Operation Sindoor source"></a></p>
+<h3>04 / RazorRecover</h3>
+<p><img src="assets/projects/razorrecover.svg" alt="RazorRecover — Gemini-assisted payment recovery prototype."></p>
+<p><strong>A payment-recovery decision prototype.</strong> A Streamlit dashboard calls FastAPI services for risk analysis, root-cause checks, Gemini-assisted decisions, policy validation, and an audit trail. Recovery actions operate on simulated, in-memory transactions.</p>
+<p><code>Demo payment → risk + root cause → Gemini / fallback → guardrails → simulated retry → audit</code></p>
+<p><strong>Stack:</strong> Python · FastAPI · Pydantic · Gemini · Streamlit · pandas<br><strong>Status:</strong> Prototype with simulated recovery; no real payment settlement or recovered-revenue claim.</p>
+<p><a href="https://github.com/Harshitcodes154/RazorRecover"><img src="assets/ui/source.svg" alt="View RazorRecover source"></a>
+<a href="https://razorrecover-buildathon.streamlit.app/"><img src="assets/ui/interface.svg" alt="Open RazorRecover interface"></a></p>
+<h3>05 / Ashoka Cooling Point</h3>
+<p><img src="assets/projects/ashoka-cooling-point.svg" alt="Ashoka Cooling Point — appliance-service booking application."></p>
+<p><strong>A service-booking application for appliance repair.</strong> A guided booking flow connects authentication, customer bookings, and dashboards, with an administrative technician-assignment interface.</p>
+<p><code>React interface → Supabase authentication → bookings + profiles → service dashboard</code></p>
+<p><strong>Stack:</strong> TypeScript · React · Vite · Tailwind CSS · Supabase · PostgreSQL<br><strong>Deployment configuration:</strong> Netlify build settings are included in the repository.</p>
+<p><a href="https://github.com/Harshitcodes154/Ashoka-Cooling-Point"><img src="assets/ui/source.svg" alt="View Ashoka Cooling Point source"></a></p>
+<h2><code>$ neofetch --engineering</code></h2>
+<table>
+<thead>
+<tr>
+<th align="left">Layer</th>
+<th align="left">Technologies and working areas</th>
+</tr>
+</thead>
+<tbody><tr>
+<td align="left"><strong>Programming</strong></td>
+<td align="left">Python · Java · C · SQL · JavaScript · TypeScript</td>
+</tr>
+<tr>
+<td align="left"><strong>AI / ML</strong></td>
+<td align="left">TensorFlow · Keras · scikit-learn · OpenCV · CNNs · Grad-CAM · Computer Vision</td>
+</tr>
+<tr>
+<td align="left"><strong>Generative AI</strong></td>
+<td align="left">Gemini API · LLM applications · Prompt engineering · Agentic workflows</td>
+</tr>
+<tr>
+<td align="left"><strong>Backend</strong></td>
+<td align="left">FastAPI · Pydantic · REST APIs · Node.js · Express</td>
+</tr>
+<tr>
+<td align="left"><strong>Interfaces</strong></td>
+<td align="left">React · Streamlit · HTML · CSS · Vite · Tailwind CSS</td>
+</tr>
+<tr>
+<td align="left"><strong>Data / Spatial</strong></td>
+<td align="left">pandas · NumPy · PostgreSQL · Supabase · Folium · DBSCAN · BallTree</td>
+</tr>
+<tr>
+<td align="left"><strong>Cloud</strong></td>
+<td align="left">Google Cloud · Vertex AI · Cloud Run · AWS EC2 / S3 / Lambda / IAM / API Gateway</td>
+</tr>
+<tr>
+<td align="left"><strong>Environment / Tools</strong></td>
+<td align="left">Linux · Git · GitHub · Docker</td>
+</tr>
+<tr>
+<td align="left"><strong>Game development</strong></td>
+<td align="left">Fictional aerial-combat design · Radar / HUD concepts · Mission systems</td>
+</tr>
+</tbody></table>
+<p>Repository implementations and resume-supported skills inform this stack. Cloud and agentic learning include Google Gen AI Academy work; project-specific stacks are listed above.</p>
+<h2><code>$ trace --from data --to deployment</code></h2>
+<p><img src="assets/ui/engineering-pipeline.svg" alt="Engineering loop: data, model, inference, API, application, deployment. Observe, train, evaluate, integrate, ship, improve."></p>
+<p><strong>Data → Model → Inference → API → Application → Deployment</strong><br>My engineering workflow: inspect the inputs, evaluate behavior, expose useful interfaces, and iterate from what the system actually does.</p>
+<h2><code>$ ./achievements --verbose</code></h2>
+<table>
+<thead>
+<tr>
+<th align="left">Record</th>
+<th align="left">Outcome / context</th>
+</tr>
+</thead>
+<tbody><tr>
+<td align="left"><strong>WAFER-GPT / Android Club Hackathon, VIT-AP</strong></td>
+<td align="left">Winner; built and presented the wafer-defect intelligence project.</td>
+</tr>
+<tr>
+<td align="left"><strong>Null Chapter CTF</strong></td>
+<td align="left">Winner; hands-on competition challenges.</td>
+</tr>
+<tr>
+<td align="left"><strong>Google Gen AI Academy — APAC 2026</strong></td>
+<td align="left">Participation; Tracks 1 &amp; 2, GenAI, agentic workflows, and Google Cloud.</td>
+</tr>
+<tr>
+<td align="left"><strong>PixelHack / DAG Club, VIT-AP</strong></td>
+<td align="left">Hackathon participation and game-development exploration.</td>
+</tr>
+<tr>
+<td align="left"><strong>Technical Expo</strong></td>
+<td align="left">WAFER-GPT presentation and technical project demonstration.</td>
+</tr>
+</tbody></table>
+<h3><code>$ ./ctf_status</code></h3>
+<p><img src="assets/achievements/ctf.svg" alt="Null Chapter CTF. Status: winner. Cryptography, web challenges and reverse engineering."></p>
+<p><strong>Null Chapter CTF — Winner.</strong> A competition milestone in problem-solving and security challenges.</p>
+<h2><code>$ git status</code> · GIT ACTIVITY / CONTRIBUTION MATRIX</h2>
+<pre><code class="language-text">harshit@github:~/activity $ git status --short
+REPOSITORIES ...... PUBLIC SNAPSHOT
+CONTRIBUTIONS ..... TRACKING GITHUB DATA
+REFRESH ........... DAILY WORKFLOW INCLUDED
+</code></pre>
+<p><a href="https://github.com/Harshitcodes154?tab=overview"><img src="assets/contribution/calendar.svg" alt="Actual GitHub contribution calendar, with exact daily contribution counts and snapshot date."></a></p>
+<p><a href="https://github.com/Harshitcodes154?tab=repositories"><img src="assets/contribution/stats.svg" alt="GitHub statistics: public repositories, stars, active days, contribution streaks, language share and repository activity."></a></p>
+<details>
+<summary>How this activity display stays honest</summary>
+
+<p>The calendar preserves GitHub&#39;s familiar week/day grid and uses actual public contribution-page counts. It is a dated snapshot, refreshed by the included workflow after installation. Streaks count consecutive dates with at least one contribution; the longest streak covers the displayed window. Language shares use GitHub Linguist bytes across public, non-fork repositories, not proficiency or time spent. GitHub contribution counts are broader than commits.</p>
+<p><a href="assets/contribution/activity-source.json">Inspect the data</a> · <a href=".github/workflows/update-activity.yml">Refresh workflow</a> · <a href="https://github.com/Harshitcodes154">Open the live GitHub profile</a></p>
+</details>
+
+<h2><code>$ cat education.txt</code></h2>
+<p><strong>B.Tech — Computer Science and Engineering</strong><br><strong>Specialization:</strong> Artificial Intelligence &amp; Machine Learning<br><strong>Stage:</strong> Pre-final year<br><strong>University:</strong> VIT-AP University</p>
+<h2><code>$ resume --open</code></h2>
+<p><a href="assets/resume/Harshit-Kumar-Resume.pdf"><img src="assets/ui/resume.svg" alt="Download Harshit Kumar&#39;s supplied resume"></a></p>
+<p><a href="assets/resume/Harshit-Kumar-Resume.pdf">Open the original supplied PDF</a></p>
+<h2><code>$ contact --open</code></h2>
+<p><a href="mailto:harshitkumar7212@gmail.com"><img src="assets/ui/mail.svg" alt="Send email"></a>
+<a href="https://www.linkedin.com/in/harshit-kumar-59783b311/"><img src="assets/ui/linkedin.svg" alt="Connect on LinkedIn"></a>
+<a href="https://github.com/Harshitcodes154"><img src="assets/ui/github.svg" alt="Open GitHub"></a></p>
+<p><strong>Mail:</strong> <a href="mailto:harshitkumar7212@gmail.com">harshitkumar7212@gmail.com</a><br><strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/harshit-kumar-59783b311/">Harshit Kumar</a><br><strong>GitHub:</strong> <a href="https://github.com/Harshitcodes154">@Harshitcodes154</a></p>
+<h2><code>$ sudo ./harshit_profile --deep-scan</code></h2>
+<p><img src="assets/ui/deep-scan.gif" alt="Animated profile diagnostics. Harshit Kumar, AI/ML, Linux, Python, AI systems, building projects, hackathon participant and winner. Status online."></p>
+<p><img src="assets/ui/signature.svg" alt="harshit@github: next iteration. Online. Build, test, learn, ship. Better questions. Stronger systems. One commit at a time."></p>
+<p align="center"><a href="docs/STATIC-PROFILE.md">Low-motion profile</a> · <a href="docs/EVIDENCE.md">Project evidence</a></p>
+</main><footer>Local GitHub-style preview · The README contains no JavaScript dependencies.</footer></body></html>

@@ -1,0 +1,11 @@
+# Portrait asset record
+
+The uploaded photograph was used as the edit target. The built-in image-generation tool produced `assets/profile/cinematic-headshot.png`; no external image API or CLI fallback was used. The generated PNG was copied into the package. The original upload is retained unchanged at `assets/profile/original-headshot.jpeg`.
+
+The edit was visually compared with the input for identity, face shape, hair, eyes, nose, mouth, expression and head-and-shoulders framing. The original smile was retained because facial identity took priority over changing the expression. The new elements are the futuristic lab background, cool rim-light treatment and cinematic contrast. The hero layout is authored as vector UI and rasterized with the portrait inside it; there is no face synthesis in the layout builder.
+
+The untouched original can be used in the same composition with the command documented in [INSTALL.md](INSTALL.md). A generated lighting edit is not a byte-identical copy of the photograph; the original file is the archival identity reference.
+
+## Exact edit prompt
+
+> Edit target: the provided actual portrait of HARSHIT KUMAR. Create a premium cinematic head-and-shoulders profile portrait for his GitHub AI engineering command center. Preserve identity and original facial structure precisely: same eyes, nose, lips, jaw, hair, skin texture, proportions and original expression. Do NOT redesign, beautify, smooth or redraw the face into a different person; the user's identity invariants are paramount over dramatic styling. Retain original smile rather than changing facial geometry. Keep white/neutral shirt and head/shoulders framing, no full body. Edit environment and lighting only: very dark near-black futuristic engineering lab background, subtle out-of-focus cyan and terminal-green instrument light, tasteful cool cyan rim light around hair and shoulder, cinematic photographic contrast, restrained warm natural face lighting. Sophisticated real engineer, not gamer avatar. No text, no logos, no weapons, no armor, no cybercrime or criminal symbols. The result must look like the same real person photographed in a futuristic command center, with unmistakable identity matching the original.

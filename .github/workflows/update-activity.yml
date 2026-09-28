@@ -1,0 +1,43 @@
+name: Refresh real GitHub activity
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '23 3 * * *'
+  push:
+    branches: [main, master]
+    paths:
+      - scripts/update_activity.py
+      - .github/workflows/update-activity.yml
+
+permissions:
+  contents: write
+
+concurrency:
+  group: profile-activity
+  cancel-in-progress: false
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - name: Check out profile repository
+        uses: actions/checkout@v4
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Fetch verified activity and render local SVGs
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python scripts/update_activity.py --username Harshitcodes154
+      - name: Commit refreshed snapshot if changed
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add assets/contribution/calendar.svg assets/contribution/stats.svg assets/contribution/activity-source.json
+          if ! git diff --cached --quiet; then
+            git commit -m 'Refresh verified GitHub activity snapshot'
+            git push
+          fi
