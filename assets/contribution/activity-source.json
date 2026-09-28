@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "username": "Harshitcodes154",
-  "fetched_at": "2026-09-26T19:07:39Z",
+  "fetched_at": "2026-09-28T11:23:13Z",
   "sources": {
     "profile": "https://api.github.com/users/Harshitcodes154",
     "repositories": "https://api.github.com/users/Harshitcodes154/repos?type=owner&per_page=100",
@@ -24,46 +24,11 @@
     "created_at": "2025-08-29T17:14:01Z"
   },
   "calendar": {
-    "from": "2025-09-21",
-    "to": "2026-09-26",
-    "total": 153,
-    "github_summary": "153 contributions in the last year",
+    "from": "2025-09-28",
+    "to": "2026-09-28",
+    "total": 147,
+    "github_summary": "147 contributions in the last year",
     "days": [
-      {
-        "date": "2025-09-21",
-        "level": 0,
-        "count": 0
-      },
-      {
-        "date": "2025-09-22",
-        "level": 0,
-        "count": 0
-      },
-      {
-        "date": "2025-09-23",
-        "level": 0,
-        "count": 0
-      },
-      {
-        "date": "2025-09-24",
-        "level": 0,
-        "count": 0
-      },
-      {
-        "date": "2025-09-25",
-        "level": 0,
-        "count": 0
-      },
-      {
-        "date": "2025-09-26",
-        "level": 4,
-        "count": 13
-      },
-      {
-        "date": "2025-09-27",
-        "level": 3,
-        "count": 5
-      },
       {
         "date": "2025-09-28",
         "level": 4,
@@ -1883,10 +1848,36 @@
         "date": "2026-09-26",
         "level": 1,
         "count": 1
+      },
+      {
+        "date": "2026-09-27",
+        "level": 3,
+        "count": 5
+      },
+      {
+        "date": "2026-09-28",
+        "level": 4,
+        "count": 7
       }
     ]
   },
   "repositories": [
+    {
+      "name": "Acadence",
+      "html_url": "https://github.com/Harshitcodes154/Acadence",
+      "fork": false,
+      "archived": false,
+      "stargazers_count": 2,
+      "pushed_at": "2026-09-27T23:57:26Z",
+      "updated_at": "2026-09-27T23:57:29Z",
+      "language": "TypeScript",
+      "language_bytes": {
+        "TypeScript": 90518,
+        "JavaScript": 20913,
+        "CSS": 6365,
+        "PLpgSQL": 4121
+      }
+    },
     {
       "name": "AI-Wafer-Defect-Detection",
       "html_url": "https://github.com/Harshitcodes154/AI-Wafer-Defect-Detection",
@@ -1938,10 +1929,14 @@
       "fork": false,
       "archived": false,
       "stargazers_count": 0,
-      "pushed_at": "2026-09-04T16:48:32Z",
-      "updated_at": "2026-09-04T16:48:37Z",
-      "language": null,
-      "language_bytes": {}
+      "pushed_at": "2026-09-28T11:22:58Z",
+      "updated_at": "2026-09-28T11:23:03Z",
+      "language": "Python",
+      "language_bytes": {
+        "Python": 27571,
+        "HTML": 16495,
+        "JavaScript": 11578
+      }
     },
     {
       "name": "Imperial-Loom",
@@ -2007,10 +2002,14 @@
       "fork": false,
       "archived": false,
       "stargazers_count": 0,
-      "pushed_at": "2026-09-26T11:41:39Z",
-      "updated_at": "2026-09-26T11:41:43Z",
-      "language": null,
-      "language_bytes": {}
+      "pushed_at": "2026-09-28T01:16:56Z",
+      "updated_at": "2026-09-28T01:17:02Z",
+      "language": "C#",
+      "language_bytes": {
+        "C#": 232701,
+        "PowerShell": 10852,
+        "ShaderLab": 8198
+      }
     },
     {
       "name": "PORTFOLIO154",
@@ -2038,22 +2037,6 @@
       "language": "Python",
       "language_bytes": {
         "Python": 75484
-      }
-    },
-    {
-      "name": "SIH_TimeTable",
-      "html_url": "https://github.com/Harshitcodes154/SIH_TimeTable",
-      "fork": false,
-      "archived": false,
-      "stargazers_count": 2,
-      "pushed_at": "2026-01-31T16:05:55Z",
-      "updated_at": "2026-04-28T12:21:21Z",
-      "language": "TypeScript",
-      "language_bytes": {
-        "TypeScript": 68701,
-        "PLpgSQL": 25150,
-        "JavaScript": 8646,
-        "CSS": 7712
       }
     },
     {
@@ -2099,16 +2082,17 @@
     }
   ],
   "language_bytes": {
-    "C#": 53597,
-    "CSS": 50586,
+    "C#": 286298,
+    "CSS": 49239,
     "Dockerfile": 369,
-    "HTML": 62535,
-    "JavaScript": 46149,
-    "PLpgSQL": 25150,
-    "PowerShell": 553,
-    "Python": 347198,
+    "HTML": 79030,
+    "JavaScript": 69994,
+    "PLpgSQL": 4121,
+    "PowerShell": 11405,
+    "Python": 374769,
+    "ShaderLab": 8198,
     "Shell": 492,
-    "TypeScript": 317452,
+    "TypeScript": 339269,
     "YARA": 242
   }
 }
