@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "username": "Harshitcodes154",
-  "fetched_at": "2026-09-28T11:23:13Z",
+  "fetched_at": "2026-09-29T09:58:56Z",
   "sources": {
     "profile": "https://api.github.com/users/Harshitcodes154",
     "repositories": "https://api.github.com/users/Harshitcodes154/repos?type=owner&per_page=100",
@@ -25,9 +25,9 @@
   },
   "calendar": {
     "from": "2025-09-28",
-    "to": "2026-09-28",
-    "total": 147,
-    "github_summary": "147 contributions in the last year",
+    "to": "2026-09-29",
+    "total": 153,
+    "github_summary": "153 contributions in the last year",
     "days": [
       {
         "date": "2025-09-28",
@@ -1857,7 +1857,12 @@
       {
         "date": "2026-09-28",
         "level": 4,
-        "count": 7
+        "count": 10
+      },
+      {
+        "date": "2026-09-29",
+        "level": 2,
+        "count": 3
       }
     ]
   },
@@ -1897,14 +1902,15 @@
       "fork": false,
       "archived": false,
       "stargazers_count": 1,
-      "pushed_at": "2026-07-01T12:45:39Z",
-      "updated_at": "2026-07-01T12:45:47Z",
+      "pushed_at": "2026-09-28T17:22:05Z",
+      "updated_at": "2026-09-28T17:22:12Z",
       "language": "TypeScript",
       "language_bytes": {
-        "TypeScript": 44379,
-        "HTML": 7362,
-        "JavaScript": 2159,
-        "CSS": 61
+        "TypeScript": 129563,
+        "CSS": 38058,
+        "JavaScript": 15164,
+        "PLpgSQL": 9091,
+        "HTML": 1460
       }
     },
     {
@@ -1929,8 +1935,8 @@
       "fork": false,
       "archived": false,
       "stargazers_count": 0,
-      "pushed_at": "2026-09-28T11:22:58Z",
-      "updated_at": "2026-09-28T11:23:03Z",
+      "pushed_at": "2026-09-28T11:23:14Z",
+      "updated_at": "2026-09-28T11:23:19Z",
       "language": "Python",
       "language_bytes": {
         "Python": 27571,
@@ -1959,14 +1965,15 @@
       "fork": false,
       "archived": false,
       "stargazers_count": 0,
-      "pushed_at": "2026-09-21T11:45:28Z",
-      "updated_at": "2026-09-21T11:45:32Z",
-      "language": "HTML",
+      "pushed_at": "2026-09-29T05:21:01Z",
+      "updated_at": "2026-09-29T05:21:05Z",
+      "language": "JavaScript",
       "language_bytes": {
-        "HTML": 12670,
-        "JavaScript": 3089,
-        "PowerShell": 553,
-        "Shell": 492
+        "JavaScript": 56196,
+        "CSS": 44102,
+        "HTML": 18743,
+        "PowerShell": 890,
+        "Shell": 564
       }
     },
     {
@@ -2083,16 +2090,16 @@
   ],
   "language_bytes": {
     "C#": 286298,
-    "CSS": 49239,
+    "CSS": 131338,
     "Dockerfile": 369,
-    "HTML": 79030,
-    "JavaScript": 69994,
-    "PLpgSQL": 4121,
-    "PowerShell": 11405,
+    "HTML": 79201,
+    "JavaScript": 136106,
+    "PLpgSQL": 13212,
+    "PowerShell": 11742,
     "Python": 374769,
     "ShaderLab": 8198,
-    "Shell": 492,
-    "TypeScript": 339269,
+    "Shell": 564,
+    "TypeScript": 424453,
     "YARA": 242
   }
 }
