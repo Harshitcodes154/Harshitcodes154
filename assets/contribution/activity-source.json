@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "username": "Harshitcodes154",
-  "fetched_at": "2026-10-03T09:17:15Z",
+  "fetched_at": "2026-10-05T10:39:42Z",
   "sources": {
     "profile": "https://api.github.com/users/Harshitcodes154",
     "repositories": "https://api.github.com/users/Harshitcodes154/repos?type=owner&per_page=100",
@@ -24,46 +24,11 @@
     "created_at": "2025-08-29T17:14:01Z"
   },
   "calendar": {
-    "from": "2025-09-28",
-    "to": "2026-10-03",
-    "total": 153,
-    "github_summary": "153 contributions in the last year",
+    "from": "2025-10-05",
+    "to": "2026-10-05",
+    "total": 146,
+    "github_summary": "146 contributions in the last year",
     "days": [
-      {
-        "date": "2025-09-28",
-        "level": 4,
-        "count": 6
-      },
-      {
-        "date": "2025-09-29",
-        "level": 1,
-        "count": 1
-      },
-      {
-        "date": "2025-09-30",
-        "level": 0,
-        "count": 0
-      },
-      {
-        "date": "2025-10-01",
-        "level": 0,
-        "count": 0
-      },
-      {
-        "date": "2025-10-02",
-        "level": 0,
-        "count": 0
-      },
-      {
-        "date": "2025-10-03",
-        "level": 0,
-        "count": 0
-      },
-      {
-        "date": "2025-10-04",
-        "level": 0,
-        "count": 0
-      },
       {
         "date": "2025-10-05",
         "level": 0,
@@ -1883,6 +1848,16 @@
         "date": "2026-10-03",
         "level": 0,
         "count": 0
+      },
+      {
+        "date": "2026-10-04",
+        "level": 0,
+        "count": 0
+      },
+      {
+        "date": "2026-10-05",
+        "level": 0,
+        "count": 0
       }
     ]
   },
@@ -1955,8 +1930,8 @@
       "fork": false,
       "archived": false,
       "stargazers_count": 0,
-      "pushed_at": "2026-10-02T09:55:10Z",
-      "updated_at": "2026-10-02T09:55:14Z",
+      "pushed_at": "2026-10-03T09:17:16Z",
+      "updated_at": "2026-10-03T09:17:20Z",
       "language": "Python",
       "language_bytes": {
         "Python": 27571,
