@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "username": "Harshitcodes154",
-  "fetched_at": "2026-10-26T09:09:22Z",
+  "fetched_at": "2026-10-27T09:10:42Z",
   "sources": {
     "profile": "https://api.github.com/users/Harshitcodes154",
     "repositories": "https://api.github.com/users/Harshitcodes154/repos?type=owner&per_page=100",
@@ -19,15 +19,15 @@
   "profile": {
     "login": "Harshitcodes154",
     "html_url": "https://github.com/Harshitcodes154",
-    "public_repos": 17,
+    "public_repos": 16,
     "followers": 5,
     "created_at": "2025-08-29T17:14:01Z"
   },
   "calendar": {
     "from": "2025-10-26",
-    "to": "2026-10-26",
-    "total": 176,
-    "github_summary": "176 contributions in the last year",
+    "to": "2026-10-27",
+    "total": 182,
+    "github_summary": "182 contributions in the last year",
     "days": [
       {
         "date": "2025-10-26",
@@ -1847,7 +1847,7 @@
       {
         "date": "2026-10-24",
         "level": 1,
-        "count": 3
+        "count": 2
       },
       {
         "date": "2026-10-25",
@@ -1856,6 +1856,11 @@
       },
       {
         "date": "2026-10-26",
+        "level": 3,
+        "count": 7
+      },
+      {
+        "date": "2026-10-27",
         "level": 0,
         "count": 0
       }
@@ -1930,8 +1935,8 @@
       "fork": false,
       "archived": false,
       "stargazers_count": 0,
-      "pushed_at": "2026-10-25T08:34:23Z",
-      "updated_at": "2026-10-25T08:34:28Z",
+      "pushed_at": "2026-10-26T09:09:23Z",
+      "updated_at": "2026-10-26T09:09:28Z",
       "language": "Python",
       "language_bytes": {
         "Python": 27571,
@@ -2005,7 +2010,7 @@
       "archived": false,
       "stargazers_count": 0,
       "pushed_at": "2026-09-28T01:16:56Z",
-      "updated_at": "2026-09-28T01:17:02Z",
+      "updated_at": "2026-10-26T10:29:16Z",
       "language": "C#",
       "language_bytes": {
         "C#": 232701,
@@ -2060,12 +2065,12 @@
       "fork": false,
       "archived": false,
       "stargazers_count": 0,
-      "pushed_at": "2026-10-21T18:26:08Z",
-      "updated_at": "2026-10-21T18:26:12Z",
+      "pushed_at": "2026-10-26T14:19:19Z",
+      "updated_at": "2026-10-26T14:19:24Z",
       "language": "Python",
       "language_bytes": {
-        "Python": 27150,
-        "JavaScript": 15113,
+        "Python": 25987,
+        "JavaScript": 18622,
         "CSS": 13008,
         "HTML": 9777
       }
@@ -2095,27 +2100,16 @@
         "CSS": 31304,
         "HTML": 13569
       }
-    },
-    {
-      "name": "web-sim",
-      "html_url": "https://github.com/Harshitcodes154/web-sim",
-      "fork": false,
-      "archived": false,
-      "stargazers_count": 0,
-      "pushed_at": "2026-10-24T14:12:50Z",
-      "updated_at": "2026-10-24T14:12:50Z",
-      "language": null,
-      "language_bytes": {}
     }
   ],
   "language_bytes": {
     "C#": 286298,
     "CSS": 163490,
     "HTML": 89043,
-    "JavaScript": 294863,
+    "JavaScript": 298372,
     "PLpgSQL": 13212,
     "PowerShell": 11742,
-    "Python": 370413,
+    "Python": 369250,
     "ShaderLab": 8198,
     "Shell": 564,
     "TypeScript": 424453,
