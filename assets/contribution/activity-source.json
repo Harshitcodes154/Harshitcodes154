@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "username": "Harshitcodes154",
-  "fetched_at": "2026-11-21T11:26:34Z",
+  "fetched_at": "2026-11-22T11:41:31Z",
   "sources": {
     "profile": "https://api.github.com/users/Harshitcodes154",
     "repositories": "https://api.github.com/users/Harshitcodes154/repos?type=owner&per_page=100",
@@ -24,46 +24,11 @@
     "created_at": "2025-08-29T17:14:01Z"
   },
   "calendar": {
-    "from": "2025-11-16",
-    "to": "2026-11-21",
+    "from": "2025-11-23",
+    "to": "2026-11-22",
     "total": 186,
     "github_summary": "186 contributions in the last year",
     "days": [
-      {
-        "date": "2025-11-16",
-        "level": 0,
-        "count": 0
-      },
-      {
-        "date": "2025-11-17",
-        "level": 0,
-        "count": 0
-      },
-      {
-        "date": "2025-11-18",
-        "level": 0,
-        "count": 0
-      },
-      {
-        "date": "2025-11-19",
-        "level": 0,
-        "count": 0
-      },
-      {
-        "date": "2025-11-20",
-        "level": 0,
-        "count": 0
-      },
-      {
-        "date": "2025-11-21",
-        "level": 0,
-        "count": 0
-      },
-      {
-        "date": "2025-11-22",
-        "level": 0,
-        "count": 0
-      },
       {
         "date": "2025-11-23",
         "level": 0,
@@ -1883,6 +1848,11 @@
         "date": "2026-11-21",
         "level": 0,
         "count": 0
+      },
+      {
+        "date": "2026-11-22",
+        "level": 0,
+        "count": 0
       }
     ]
   },
@@ -1955,7 +1925,7 @@
       "fork": false,
       "archived": false,
       "stargazers_count": 0,
-      "pushed_at": "2026-11-20T11:55:36Z",
+      "pushed_at": "2026-11-21T11:26:35Z",
       "updated_at": "2026-11-12T12:30:28Z",
       "language": "Python",
       "language_bytes": {
